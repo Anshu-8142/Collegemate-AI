@@ -43,7 +43,9 @@ python main.py
 <br>
 Anshu
 <br>
-<br>
 Diploma in Computer Science & Engineering
 <br>
 Government Polytechnic College Vaishali
+
+<br><br>
+“This is an advanced project for me. Currently, I don't have extensive knowledge of AI technologies, but I am building this project to learn and gain practical experience with AI, APIs, and related technologies.” 
