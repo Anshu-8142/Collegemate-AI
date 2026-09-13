@@ -1,0 +1,159 @@
+{
+    "basic_details": {
+        "official_name": "Government Polytechnic Vaishali",
+        "address": "Fatehpur, Afzalpur Road, Chakmaruf, Vaishali, Garaul-844118, Bihar",
+        "website": "https://www.gpvaishali.org/",
+        "contact_number": "+ 91 999999999",
+        "official_email": "gp.vaishali@gmail.comm",
+        "establishment_year": "2k12"
+    },
+
+    "courses_and_branches": {
+        "courses": [
+            {
+                "course_name": "Diploma in Engineering",
+                "duration": "3 Years",
+                "branches": [
+                    "Computer Science and Engineering",
+                    "Electrical Engineering",
+                    "Civil Engineering",
+                    "Mechanical Engineering",
+                    "Electronics Engineering",
+                    "Construction Technology & Management"
+                ]
+            }
+        ]
+    },
+
+    "cse_department": {
+        "department_name": "Computer Science & Engineering",
+        "hod_name": "Mr. Ashish Kumar",
+        "total_semesters": "6 semesters",
+        "semester_structure": {
+            "semester_1": [
+                "Basic Engg. Mathematics ",
+                "Applied Physics -B",
+                "Fundamentals of Electrical and Electronic Engg",
+                "Introduction to Artificial Intelligence ",
+                "Electrical & Electronics Workshop ",
+                "ICT Tools ",
+                "Indian Constitution ",
+                "Open Educational Resources (OER) "
+            ],
+            "semester_2": [
+                "Programming with C",
+                "Web Technology",
+                "Applied Chemistry -B",
+                "Communication Skills (English)",
+                "Applied Mathematics -B",
+                "Professional Ethics",
+                "Essence of Indian Knowledege System and Tradition"
+            ],
+            "semester_3": [
+                "Data Structures and Algorithm",
+                "Operating System",
+                "Discrete Structures",
+                "Digital Electronics & Microprocessor",
+                "Python Programming",
+                "Summer Internship – I",
+                "Sports, Yoga and Meditation",
+                "Principles of Managemen"
+            ],
+            "semester_4": [
+                "Java Programming",
+                "Theory of Computation",
+                "Database Management System",
+                "Computer Organization and Architecture",
+                "Computer Troubleshooting and Maintenance",
+                "Environmental Education and Sustainable Development",
+                "Employability Skills Development",
+                "Community/ Society Development"
+            ],
+            "semester_5": [
+                "Data Communication and Computer Network",
+                "Software Engineering",
+                "Programme Electives* ",
+                "Open Electives**/ COE",
+                "Entrepreneurship Development & Start-ups",
+                "Summer Internship- II",
+                "Minor Project"
+            ],
+            "semester_6": [
+                "Cloud Computing",
+                "Computer Network with Linux & Windows",
+                "Programme Electives*",
+                "Open Electives**/ COE",
+                "Major Project"
+            ]
+        }
+    },
+
+    "facilities": {
+        "library": "Available, The Central Library of Government Polytechnic Vaishali is committed to providing accessible, user-friendly, and technology-enabled services and thereby contributes significantly to the teaching–learning process, academic excellence, skill development, innovation, and holistic development of students.",
+        "computer_lab": "Available, At Government Polytechnic, Vaishali We have a excelient infrastructure of computer lab. Our computer labs are fully air-condition. All our computers in lab is connected to local are network. our computer lab has projector facility as well so that our teacher can explain better about computer programs and all to students and students can also have a better understanding.",
+        "other_laboratories": ["electronics lab", "Physics lab", "civil lab", "electrical lab","workshop"],
+        "wifi": "Available, The Wi-Fi of Government Polytechnic Vaishali is equiped with Wi-Fi facilities.A 500MBPS ILL is  working in the campus.All the buildings of institute is covered in the Wi-Fi range.",
+        "hostel & Mess": "Content Coming Soon.....",
+        "sports": "For Healthy Mind in Healthy Body,facilities for other outdoor and indoor games like Volleyball, Football, Cricket, Basketball, Badminton, Table Tennis, etc. are available.",
+        "securityl": "Governemnt Polytechnic, Vaishlai is fully covered with CCTV camera and have deputed 24X7 security guard."
+    },
+
+    "academic_information": {
+        "college_timings": "9:50 Am to 5:00 Pm",
+        "working_days": [    "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+        "semester_exam_system": "Each semester includes internal assessment and end-semester external examinations.",
+        "internal_exam": "Internal assessment includes class tests, assignments and practical work.",
+        "external_exam": "End-semester external examinations are conducted according to the SBTE examination schedule.",
+        "practical_rules": "Students are required to complete prescribed practical work and maintain the practical record/file. Practical examination and viva are conducted as per the prescribed schedule.",
+        "term_work_rules": "Students must complete and submit the prescribed term work within the given deadline. Evaluation is carried out according to the institute's prescribed guidelines."
+    },
+
+    "admission_information": {
+        "admission_process": "Students are admitted through Diploma Combined Entrance Competitive Examination (DCECE) conduct. By BCECE Board, Govt. of Bihar. Minimum 10th pass is the entry qualification in first year (1st Semester) admission. Also the ITI or 10+2 with Science pass student direct admitted in Second year (3rd Semester) through Diploma Combined Entrance Competitive Examination (DCECE (L.E.)). It is also conduct by BCECE Board. Govt. of Bihar.",
+        "eligibility": "Minimum 10th pass is the entry qualification in first year (1st Semester) admission."
+    },
+
+    
+    "faqs": [
+        {
+            "question": "College ki timing kya hai?",
+            "answer": "College ki timing 9:50 Am to 5:00 Pm hai."
+        },
+        {
+            "question": "College mein kaun-kaun si branches available hain?",
+            "answer": "College mein Computer Science and Engineering, Electrical Engineering, Civil Engineering, Mechanical Engineering, Electronics Engineering aur Construction Technology & Management branches available hain."
+        },
+        {
+            "question": "CSE mein kitne semesters hain?",
+            "answer": "CSE and Other branches mein total 6 semesters hain."
+        },
+        {
+            "question": "Admission ke liye kaun-kaun se documents chahiye?",
+            "answer": "Students Diploma Combined Entrance Competitive Examination (DCECE) ke through admit hote hain. Admission ke liye 10th pass certificate, mark sheet, caste certificate, domicile certificate, passport size photographs aur other required documents chahiye hote hain."
+        },
+        {
+            "question": "Semester exam kaise hota hai?",
+            "answer": "Semester exam mein internal assessment aur end-semester external examinations hoti hain. Internal assessment mein class tests, assignments aur practical work shamil hote hain. End-semester external examinations SBTE examination schedule ke according conduct ki jati hain."
+        },
+        {
+            "question": "Internal aur external exam mein kya difference hai?",
+            "answer": "Internal assessment mein class tests, assignments aur practical work shamil hote hain. End-semester external examinations SBTE examination schedule ke according conduct ki jati hain."
+        },
+        {
+            "question": "Term work kya hota hai?",
+            "answer": "Term Work semester ke dauran student ko jo regular academic work complete karke submit karna hota hai, uska record/evaluation hota hai."
+        },
+        {
+            "question": "College mein library available hai?",
+            "answer": "Haan, College mein library available hai"
+        },
+        {
+            "question": "Computer lab available hai?",
+            "answer": "Haan, College mein Computer Lab Available hai."
+        },
+        {
+            "question": "Semester fee kitni hai?",
+            "answer": "1500 for boys and 1000 for girls.(It's per Semester Examnation fee, Tuition fee is free for all students)"
+        }
+    ]
+}

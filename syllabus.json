@@ -1,0 +1,2588 @@
+{
+    "branch": "Computer Science and Engineering",
+
+    "semesters": {
+        "semester_1": {
+            "subjects": [
+                {
+                    "subject_name":"Basic Engg. Mathematics",
+                    "subject_code": "T2600101",
+                    "units": [
+                        {
+                        "unit_1": "Algebra Determinant",
+                        "Topics": ["1.1 Concept and properties of determinant. ", 
+                            "1.2 Solutions of simultaneous equations in three Unknowns by Cramer’s rule. ",
+                            "1.3 Matrices: Algebra of matrices (Addition, Subtraction, Multiplication by Scalar, and Multiplication of Two matrices).  ",
+                            "1.4 Transpose, Adjoint and Inverse of Matrix. ",
+                            "1.5 Solutions of simultaneous equations of a Matrix of order 3 x3 by Inversion method. ",
+                            "1.6 Vectors: Psition Vector.",
+                            "1.7 Algebra of Vectors (Addition, Subtraction, Scalar Multiplication with vector). ",
+                            "1.8 Scalar product. ",
+                            "1.9 Vector product. ",
+                            "1.10 Algebra in Indian Knowledge System: Solution of simultaneous equations (Indian Mathematics). (IKS)"
+
+                        ]
+                        },
+                        {
+                        "unit_2": "Differential Calculus",
+                        "Topics": [
+                            "Function and Limit: 2.1 Concept of function. ",
+                            "2.2 Different type of functions. ",
+                            "2.3 Domain and Range of Function. ",
+                            "2.4 Concept of Limits and its evaluation. ",
+                            "Continuity: 2.5 Concept of continuity with simple problems. ",
+                            "2.6 Differentiation by First Principle. ",
+                            "2.7 Differentiation of Algebraic, trigonometric, Exponential, and Logarithmic functions. ",
+                            "2.8 Differentiation of sum, product, and quotient of two functions. ",
+                            "2.9 Differentiation of composite functions by Chain Rule.",
+                            "2.10 Logarithmic differentiation. ",
+                            "2.11 Implicit differentiation. ",
+                            "2.12 Differentiation of Parametric Functions. ",
+                            "2.13 Calculus in Indian Knowledge System: The Discovery of Calculus by Indian Astronomers. (Indian Mathematics). (IKS) "
+        
+                        ]
+                        },
+                        {
+                        "unit_3": " Application of Differential Calculus ",
+                        "Topics": [
+                            "3.1 Successive differentiation up to second order.",
+                            "3.2 Rolle’s Theorem and Mean Value Theorem (without proof) with examples. ",
+                            "3.3 Rate of change of quantities. ",
+                            "3.4 Equation of Tangent and Normal. ",
+                            "3.5 Maxima and Minima. ",
+                            "3.6 Radius of curvature. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Co-ordinate Geometry",
+                        "Topics": [
+                            "Co-ordinate systems: 4.1 Introduction of Co-ordinate Systems. ",
+                            "Straight lines: 4.2 Slope of a line, the angle between two lines. ",
+                            "Various forms of Straight Lines: 4.3 Point-slope form, Two-point form, Slope intercept form, Intercept form, Normal form, General form.",
+                            "4.4 Perpendicular distance of a line from a point, perpendicular distance between two parallel lines.",
+                            "4.5 Geometry in Sulabasutras in Indian Knowledge System (construction of the square, circling the square). (Indian Mathematics). ",
+                            "Conic Section: 4.6 Introduction of Conic-Section. ",
+                            "4.7 Equation of Circle in standard form. ",
+                            "4.8 Standard equation of parabola, ellipse, and hyperbola. "
+                        ]
+                        },
+                        {
+                        "unit_5": "Probability and Statistics",
+                        "Topics": [
+                            "Probability: 5.1 Concept of Probability. ",
+                            "5.2 Addition and multiplication theorems of Probability. ",
+                            "The measure of Central Tendency: 5.3 Mean, Median, Mode. ",
+                            "Measure of Dispersion: 5.4 Range, Variance, Standard Deviation.",
+                            "5.5 Coefficient of Variation. "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Applied Physics-B",
+                    "subject_code": "T2600102B",
+                    "units": [
+                        {
+                        "unit_1": "Unit and Measurments",
+                        "Topics": [
+                            "1.1 Physical quantities, fundamentals and derived units and system of units  ",
+                            "1.2 Accuracy, precision and errors (systematic and random) in measurements, Method of estimation of errors (absolute and relative) in measurement, propagation of errors, significant figures  ",
+                            "1.3 Dimensions and dimensional formulae of physical quantities, Principle of homogeneity of dimension in an equation ",
+                            "1.4 Applications of dimensions: conversion from one system of units to other, corrections of equations and derivation of simple equations. ",
+                            "1.5 Ancient astronomical instruments: Chakra, Dhanuryatra , Yasti and Phalaka yantra . "
+                
+                        ]
+                        },
+                        {
+                        "unit_2": "Simple Harmonic and Wave Motion ",
+                        "Topics": [
+                            " 2.1 Periodic and Oscillatory Motion ",
+                            "2.2  Simple Harmonic Motion (SHM): Displacement, velocity, acceleration, time period, frequency and their interrelation ",
+                            "2.3 Types of waves: Mechanical and Electromagnetic, Transverse and longitudinal waves, wave velocity, frequency and wave length and their relationship, wave equation, amplitude, phase, phase difference, Superposition of waves"
+                        ]
+                        },
+                        {
+                        "unit_3": "Electrostatics, Electromagnetism and Electric Current  ",
+                        "Topics": [
+                            "3.1 Electric Charge, Coulomb’s law, Electric field, Electric lines of force and their properties, Electric flux, Electric potential and potential difference, Electric dipole",
+                            "3.2 Gauss’ law, electric field intensity due to straight charged conductor, charged plane sheet and charged sphere",
+                            "3.3 Dielectric, Capacitance of capacitor (parallel plate), Factor affecting capacitance of capacitors ",
+                            "3.4 Magnetic field and its units, Biot Savart Law Magnetic field due to current caring wire: straight and circular wire, Lorentz force (force on moving charge in magnetic field)  ",
+                            "3.5 Magnetic flux, Faraday’s law of electromagnetic induction, Lenz’s law, Self and Mutual induction, eddy current, motional emf ",
+                            "3.6 DC and AC currents, Average, rms and Peak value of AC current"
+                        ]
+                        },
+                        {
+                        "unit_4": " Semiconductor Physics ",
+                        "Topics": [
+                            "4.1 Energy band and band gap, insulator, semiconductor, conductor ",
+                            "4.2 Intrinsic and Extrinsic semiconductors, Drift velocity, drift and diffusion current, Mobility, current density, law of mass action. ",
+                            "4.3 Depletion layer and barrier Potential, p-n junction and V-I characteristics, Half wave and full wave rectifier",
+                            "4.4 Photocells, Solar cells; working principle and engineering applications. "
+                        ]
+                        },
+                        {
+                        "unit_5": "Modern Physics ",
+                        "Topics": [
+                            "5.1 Photoelectric effect; threshold frequency, work function, Stopping Potential, Einstein’s photoelectric equation. ",
+                            "5.2 Lasers: Energy levels, ionization and excitation potentials; spontaneous and stimulated emission; population inversion, pumping methods, types of lasers): He Ne Laser, p-n junction diode laser, engineering and medical applications of lasers. ",
+                            "5.3 Optical fibers: Total internal reflection, acceptance angle and numerical aperture, Optical fiber types, applications in telecommunication, medical and sensors. ",
+                            "5.4 Nanotechnology: Properties (optical, magnetic and dielectric properties) of Nanomaterials and its application, Bhasma (Ancient Ayurveda, IKS) "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Fundamentals of Electrical and Electronic Engg. ",
+                    "subject_code": "T2620103",
+                    "units": [
+                        {
+                        "unit_1": "Basic Electrical Parameters and Concepts  ",
+                        "Topics": [
+                            "1.1 Electric charge, flow of charges, Electric Current D.C and A.C, Concept of ideal and practical current sources ",
+                            "1.2 Analogy of charge, potential /Voltage difference D.C and A.C, Induced emf/voltage, Terminal voltage, Concept of Ideal & Practical voltage sources ",
+                            "1.3 Resistor - Properties, Classification, Practical application of resistors, Effect of temperature on resistance, Series and parallel combination of resistors, Phase difference ",
+                            "1.4 Heating, magnetic and chemical effect of current, Electrical work, Power and energy, Open and short circuit condition of electric circuit ",
+                            "1.5 Capacitors – Properties, Capacitance formation, Expression for capacitance, Capacitive reactance, Energy stored in capacitor, Series & parallel combination of capacitors, Types of capacitors including super capacitors and their applications",
+                            "1.6 Inductors – Properties, Self and mutual inductance, inductive reactance, Voltage and current equations of inductor, Energy stored in inductor, Inductance in A.C. and D.C. circuits, Types of Inductors including MEMS inductor and their applications "
+                        ]
+                        },
+                        {
+                        "unit_2": "Fundamentals of D.C. and A.C. Circuits ",
+                        "Topics": [
+                            "DC Circuits: 2.1 AC and DC current, voltage and Power ",
+                            "2.2 Ohm’s law, Kirchhoff’s Current Law, Kirchhoff’s Voltage law ",
+                            "2.3 Active & Passive elements, Linear & Non-linear circuit, unilateral and Bilateral circuit element, ",
+                            "2.4 Node, Branch, Loop, Mesh ",
+                            "A.C Circuits: 2.5  Frequency, Time period, Amplitude, Angular Velocity, RMS Value, Average Value, Form factor, Peak factor, Power factor ",
+                            "2.6 Phasor representation and transformation from Polar to rectangular form and vice versa of alternating quantities "
+                        ]
+                        },
+                        {
+                        "unit_3": "Magnetic Circuits and Electromagnetic Induction ",
+                        "Topics": [
+                            "3.1 Magnetic flux, Magnetomotive force, Magnetic field strength, Permeability, Reluctance. ",
+                            "3.2 Magnetic leakage, leakage coefficient ",
+                            "3.3  Magnetic Hysteresis, Hysteresis loop,  ",
+                            "3.4  Magnetization (B-H) Curve ",
+                            "3.5 Analogy between electric and magnetic circuits ",
+                            "3.6 Electromagnetism ",
+                            "3.7 Induced e.m.f -Statically (self and mutual) and dynamically induced emf, ",
+                            "3.8 Faraday’s Laws of electromagnetic Induction.  ",
+                            "3.9 Lenz’s Law, Fleming’s R.H. rule; direction of induced E.M.F, Fleming’s L.H. rule, Ampere’s Law "
+                        ]
+                        },
+                        {
+                        "unit_4": "Basic Electronic Components ",
+                        "Topics": [
+                            "4.1 Semiconductors: Definition, types of semiconductors and their materials. Energy band theory and effect of temperature. ",
+                            "4.2 Diodes: Basic Concept of Diodes, N-type & p-type PN Junction Diode – Forward and Reverse Bias Characteristics i.e., PN junction Barrier voltage, depletion region, Junction Capacitance. Forward biased & reversed biased junction, Diode symbol",
+                            "4.3 Bipolar Junction Transistor (BJT): NPN and PNP Transistor – Operation and characteristics. symbol ",
+                            "4.4 Field Effect Transistor (FET): FET – Operation and characteristics, Classification FET and advantages, FET symbol "
+                        ]
+                        },
+                        {
+                        "unit_5": "Overview of Digital Electronics ",
+                        "Topics": [
+                            "5.1 Introduction to different Number systems: Binary, Octal, Decimal & Hexadecimal & their Conversion from one another ",
+                            "5.2  Introduction to Boolean Algebra, rules and Laws of Boolean Algebra – DE Morgan’s Law ",
+                            "5.3  Study of logic gates (NOT, OR, NOR, AND, NAND) Symbolic representation, Truth Table and Implementation of Boolean expressions  "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Introduction to Artificial Intelligence ",
+                    "subject_code": "T2600100",
+                    "units": [
+                        {
+                        "unit_1": "Introduction to IT Systems and Digital Technologies ",
+                        "Topics": [
+                            "1.1 Introduction to Digital Systems and Internet Technology: Introduction to Digital Systems, Data and Information, Role of Information Technology in Engineering, Fundamentals of the Internet, Web Browsers and Secure Web Navigation, Search Engines and Effective Information Retrieval. ",
+                            "1.2 Computer Hardware Components and Internet Technology: CPU, Memory, Storage Devices, Input and Output Devices ",
+                            "1.3  Operating Systems: Basic functions of operating systems (Windows, Linux, and Mobile OS). Working with local files, folders, and system directories. ",
+                            "1.4 Cloud Computing and Collaboration: Introduction to Cloud Ecosystems. Working with Cloud Storage (Google Drive, OneDrive), and collaborative digital environments (Real-time document editing, sharing links, and setting Viewer, Commenter, Editor access permissions). ",
+                            "1.5 Cybersecurity Fundamentals: Introduction to Computer Networks, Safe internet practices, password hygiene, and basic digital safety awareness. "
+
+                        ]
+                        },
+                        {
+                        "unit_2": "Fundamentals of Artificial Intelligence  ",
+                        "Topics": [
+                            "2.1 Introduction to AI: Defining Intelligence (Human vs. Artificial), History, evolution, and major milestones of Artificial Intelligence. ",
+                            "2.2 Core Paradigms:  2.2.1-Brief overview of Machine Learning (ML)- Supervised, Unsupervised and Reinforcement Learning  2.2.2- Overview of Artificial Neural Network (ANN) 2.2.3- Brief Overview of Deep Learning (DL) ",
+                            "2.3 Fundamentals of AI Learning Process: Introduction to AI Models, Input, Processing and Output Stages, Pattern Recognition and Learning, Training Data and Testing Data, Model Building Lifecycle",
+                            "2.4 The Role of Data: Types of data (Structured vs. Unstructured), Importance of data quality, Concept of splitting data into Training and Testing sets. ",
+                            "2.5 Visual Pattern Recognition: Understanding Patterns in Data, Identifying Trends and Relationships, Introduction to basic mathematical ideas in AI (Euclidean Distance) ",
+                            "2.6 Capabilities and Limitations of AI:   Core Capabilities of AI, Strengths of AI Systems, Industrial Applications and Scalability, Human–AI Collaboration "
+                        ]
+                        },
+                        {
+                        "unit_3": "Core AI Applications - Computer Vision & NLP ",
+                        "Topics": [
+                            "3.1 Introduction to Computer Vision: Concept of machine sight; processing digital images and modern industrial use cases.",
+                            "3.2 Image Processing Concepts: Basics of Image Segmentation, pixel analysis, object scaling, and structural similarity indices. ",
+                            "3.3 Object Detection and Identification: Concepts of identifying and tracking target boundaries within images. ",
+                            "3.4 Optical Character Recognition (OCR): Digitizing text logs from blueprints, machine maintenance logbooks, and engineering data sheets. ",
+                            "3.5 Natural Language Processing (NLP): Introduction to how machines process, tokenize, and interpret human language. "
+                            
+                        ]
+                        },
+                        {
+                        "unit_4": "Conversational AI and Generative Systems ",
+                        "Topics": [
+                            "4.1 Chatbot Architecture: Introduction to AI-based Chatbots, Large Language Models (LLMs), and their basic internal operational blocks. ",
+                            "4.2 Next-Word Prediction Concept: Next-Word Prediction Mechanism, Probability-Based Word Selection, Context and Meaning in Text Generation, Simple Examples of Next-Word Prediction ",
+                            "4.3 Prompt Engineering Foundations: Introduction to Prompt Engineering, Components of an Effective Prompt, Writing Clear and Specific Instructions, Context and Constraints in Prompts, Zero-Shot Prompting. ",
+                            "4.4 Industrial Applications of Generative AI: Technical document summarization, automated code scaffolding generation, and crossdisciplinary engineering workflow ideation. ",
+                            "4.5 Zero-Code Generative Design Principles: Prompt-Based Design Generation, Zero-Code AI Design Tools Zero-Code AI Design Tools (Examples of Zero-Code Generative Design Tools) ",
+                            "4.6 Limitations, Risks, and Responsible Use of AI: AI Hallucinations and Bias, Fact Verification and Source Validation, Data Privacy and Copyright Awareness, Responsible Use of Generative AI. "
+                        ]
+                        },
+                        {
+                        "unit_5": " Programming Logic & Computational Thinking using Python ",
+                        "Topics": [
+                            "5.1 Computational Logic Introduction: Step-wise problem solving, logical flowcharts, algorithmic layouts, and Python's role in modern automation ecosystems. ",
+                            "5.2 Variables and Data Types: Declaration of variables, Working with primary data types: Integers (int), Floats (float), Strings (string), and Booleans (boolean), Explicit Type Casting. ",
+                            " 5.3 Expression Evaluation: Utilizing Arithmetic, Relational, Logical, and Assignment operators inside standard engineering formulas. ",
+                            " 5.4 Interactive Input/Output: Capturing console input values via input() and rendering clean output streams via formatted string methods (f-strings).",
+                            "5.5 Conditional Control Blocks: Implementing selective execution paths using if, if-else, and nested if statements (e.g., Automating threshold trigger safety alarms for critical structural pressure, engine temperature, or grid voltage levels).  ",
+                            "5.6 Iterative Looping Structures: Automating repetitive calculation sequences using definite for loops, indefinite while loops, and the range() function (e.g., Generating engineering conversion metric tables or multi-interval sensor grids).  ",
+                            "5.7 Sequential Data Storage (Lists): Introduction to Python Lists, basic list index tracking, appending data, and processing sequential engineering logs (e.g., finding minimum, maximum, and running mean values from a sensor array)."
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Electrical and Electronics Workshop",
+                    "subject_code": " 2620105",
+                    "units":["Theory Not Applicable "]
+                },
+                {
+                    "subject_name": "ICT Tools",
+                    "subject_code": "2618107",
+                    "units": [
+                        {
+                        "unit_1": "Word Processing ",
+                        "Topics": [
+                            "1.0 Word Processing: Overview of Word processor Basics of Font type, size, colour, Effects like Bold, italic, underline, Subscript and superscript, Case changing options, previewing a document, saving a document, closing a document and exiting application. ",
+                            "1.1 Editing a Document: Navigate through a document,  Scroll through text, Insert and delete text, Select text, Undo and redo commands, Use drag and drop to move text, Copy, cut and paste, Use the clipboard, Clear formatting, Format and align text, Formatting Paragraphs, Line and paragraph spacing, using FIND and REPLACE, Setting line spacing, add bullet and numbers in lists, add borders and shading, document views, Page settings and margins, Spelling and Grammatical checks ",
+                            "1.2 Changing the Layout of a Document: Adjust page margins, change page orientation, Create headers and footers, Set and change indentations, Insert and clear tabs. ",
+                            "1.3 Inserting Elements to Word Documents: Insert and delete a page break, Insert page numbers, Insert the date and time, Insert special characters (symbols), Insert a picture from a file, Resize and reposition a picture",
+                            "1.4 Working with Tables: Insert a table, Convert a table to text, Navigate and select text in a table, Resize table cells, Align text in a table, Format a table, Insert and delete columns and rows, Borders and shading, Repeat table headings on subsequent pages, Merge and split cells.  ",
+                            "1.5 Working with Columned Layouts and Section Breaks: a Columns, Section breaks, Creating columns, Newsletter style columns, Changing part of a document layout or formatting, Remove section break, Add columns to remainder of a document, Column widths, Adjust column spacing, Insert manual column breaks. "
+                        ]
+                        },
+                        {
+                        "unit_2": "Spreadsheets ",
+                        "Topics": [
+                            "2.1 Working with Spreadsheets: Overview of workbook and worksheet, Create Worksheet Entering data, Save, Copy Worksheet, Delete Worksheet, Close and open Workbook. ",
+                            "2.2 Editing Worksheet: Insert data, adjust row height and column width, delete, move data, insert new rows and columns, Copy and Paste content, Find and Replace, Spell Check, sheet view Zoom In-Out, insert Special Symbols, Insert Comments, Add Text Box, Undo-redo Changes, - Freeze Panes, hiding/unhiding rows and columns. ",
+                            "2.3 Formatting Cells and sheet:  Setting Cell Type, Setting Fonts, Text options, Rotate Cells, Setting Colors, Text Alignments, Merge and Wrap, apply Borders and Shades, Sheet Options, Adjust Margins, Page Orientation, insert Header and Footer, Insert Page Breaks, Set Background.  ",
+                            "2.4 Working with Formula: Creating Formula, absolute and relative cell references, Copying and pasting Formula, Common spreadsheet Functions such as sum, average, min, max, date, In, And, or, mathematical functions such as sqrt, power, statistical functions, applying conditions using IF. ",
+                            "2.5 Working with Charts: Introduction to charts, overview of different types of charts, Bar, Pie, Line charts, creating and editing charts. Using different chart options: chart title, axis title, legend, data labels, Axes, grid lines, moving chart in a separate sheet. ",
+                            "2.6 Advanced Operations: Applying Conditional Formatting, Data Filtering, Data Sorting, Using Ranges, Data Validation, Adding Graphics, Printing Worksheets, print area, margins, header, footer and other page setup options. "
+                        ]
+                        },
+                        {
+                        "unit_3": "Presentation Tool ",
+                        "Topics": [
+                            "3.1 Creating a Presentation: Outline of an effective presentation, Identify the elements of the User Interface, Starting a New Presentation Files, Creating a Basic Presentation, Working with textboxes, Apply Character Formats, Format Paragraphs, View a Presentation, Saving work, creating new Slides, Changing a slide Layout, Applying a theme, Changing Colours, fonts and effects, apply custom Colour and font theme, changing the background, Arrange Slide sequence, ",
+                            "3.2 Inserting Media elements: Adding and Modifying Graphical Objects to a Presentation - Insert Images into a Presentation, insert audio clips, video/animation, Add Shapes, Add Visual Styles to Text in a Presentation, Edit Graphical Objects on a Slide, Format Graphical Objects on a Slide, Group Graphical Objects on a Slide, Apply an Animation Effect to a Graphical Object, Add Transitions, Add Speaker Notes, Print a Presentation. ",
+                            "3.3 Working with Tables:  Insert a Table in a Slide, Format Tables, and Import Tables from Other Office Applications. ",
+                            "3.4 Working with Charts: Insert Charts in a Slide, modify a Chart, Import Charts from Other Office Applications. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Basics of Internet ",
+                        "Topics": [
+                            "4.1 World Wide Web: Introduction, Internet, Intranet, URL, web servers, basic settings of web browsers- history, extension, default page, default search engine, privacy and security, creating and retrieving bookmarks, use search engines effectively for searching the content",
+                            "4.2 Web Services: Cloud- software as service (SAS), Google docs, slides, sheets, Form, Web Sites, web pages, e-Mail, Chat, Video Conferencing, elearning, e-shopping, e-Reservation, e-Groups, Social Networking "
+    
+                        ]
+                        }
+            
+                    ]
+                },
+                {
+                    "subject_name": " Indian Constitution",
+                    "subject_code": "2600007",
+                    "units": [
+                        {
+                        "unit_1": "Constitution and Preamble ",
+                        "Topics": [
+                            "1.1 Meaning of the constitution of India. ",
+                            "1.2 Historical perspective of the Constitution of India. ",
+                            "1.3 Salient features and characteristics of the Constitution of India. ",
+                            "1.4 Preamble to the Constitution of India. "
+                        ]
+                        },
+                        {
+                        "unit_2": " Fundamental Rights and Directive Principles",
+                        "Topics": [
+                            "2.1 Fundamental Rights under Part-III. ",
+                            "2.2 Fundamental duties and their significance. ",
+                            "2.3 Relevance of Directive Principles of State Policy under part-IV. "
+                        ]
+                        },
+                        {
+                        "unit_3": "Governance and Amendments ",
+                        "Topics": [
+                            "3.1 Amendment of the Constitutional Powers and Procedure ",
+                            "3.2 Major Constitutional Amendment procedure - 42nd, 44th, 74th, 76th, 86th and 91st "
+                    
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Open Educational Resources ",
+                    "subject_code": "T2600009",
+                    "units": [
+                        {
+                        "unit_1": "Open Educational Resources ",
+                        "Topics": [
+                            "1.1 OER - definition ",
+                            "1.2 What is NOT OER. ",
+                            "1.3 Benefits of using OER – Benefits to Students - Access to Quality Education ",
+                            "1.4 OER - Benefits to Faculty - Use, Improve and Share, Network and collaborate with peers, Lower Cost, Improve access to information ",
+                            "1.5 Challenges of Using OER – Subject Availability, Format and Material type availability, Time and Support availability ",
+                            "1.6 Evaluating OER – a) Clarity, Comprehensibility, and Readability, b) Content and Technical Accuracy, c) Adaptability and Modularity, d)",
+                            "1.7 Finding Open Content - OER Search Scenario Filter by Usage Rights in Google, Repositories and Search Tools, Subject-specific Repositories"
+                        ]
+                        },
+                        {
+                        "unit_2": "Copyright and Open Licensing ",
+                        "Topics": [
+                            "2.1   Copyright and what it does protect, benefits of copyright protection for creators, duration of copyright protection last, rights granted to copyright holders. ",
+                            "2.2 Exceptions and limitations to copyright law, fair use/fair dealing apply to copyright  ",
+                            "2.3 Public domain and its relation to copyright. ",
+                            "2.4 Penalties for copyright infringement ",
+                            "2.5 Apply copyright to digital content and the internet ",
+                            "2.6 Use of copyrighted works in education. ",
+                            "2.7 Open Licenses – GNU – Free Documentation license, Free Art License  ",
+                            "2.8 Why Free Licenses – Retain, Reuse, Revise, Remix, Redistribute "
+                        ]
+                        },
+                        {
+                        "unit_3": " Creative Common Licenses ",
+                        "Topics": [
+                            " 3.1 Alternatives to copyright as Creative Commons licenses. ",
+                            "3.2 Four components of creative common Licenses – Attribution, Share- Alike, Non – commercial, No Derivatives ",
+                            "3.3 Choosing a Creative common licenses – Wiley’s 5 Rs and Creative Common Licenses ",
+                            "3.4 Four Open CC Licenses and Their Strengths and Weaknesses – (a) CC BY (b) CC BY SA (c) CC BY NC (d) CC BY NC SA ",
+                            "3.5 Attribution Vs Citation - Creative Commons licensed work without giving attribution ",
+                            "3.6 Apply a CC License - choose the right Creative Commons license for work, apply a Creative Commons license to existing work, Creative Commons licenses be used for commercial purposes, modify a work licensed under Creative Commons, revoke a Creative Commons license, combine works with different Creative Commons licenses"
+                        ]
+                        }
+                    ]
+                }
+            ]
+        },
+
+        "semester_2": {
+            "subjects": [
+                {
+                    "subject_name": "Programming with C",
+                    "subject_code": "T2418101",
+                    "units": [
+                        {
+                        "unit_1": " Program Logic Development",
+                        "Topics": [
+                            "1.1 Fundamentals of Algorithms: Notion of an algorithm. Pseudo-code conventions like assignment statements and basic control structures. ",
+                            "1.2 Algorithmic Problems: Develop fundamental algorithms to solve simple problems such as: (i) solve simple arithmetic expression (ii) find the greatest of three numbers (iii) determine whether a given number is even or odd (iv) determine whether a given number is prime.",
+                            "1.3 Flowchart: Flowchart, Symbols of flowchart, Guidelines for preparing Flowchart"
+                          
+                        ]
+                        },
+                        {
+                        "unit_2": "Basics of C Programming ",
+                        "Topics": [
+                            " 2.1 Introduction to C: History of ‘C’General Structure of a ‘C’ program: Header files,‘main’ function",
+                            "2.2 Data Concepts: Character set, tokens, keywords,Identifiers, Variables, Constant, data types, Coperators, Arithmetic operators, Arithmetic expression, declaring variables, and data type conversion.",
+                            "2.3 Basic Input Output: Input and Output statements, using printf() and scanf(), character input/output statements,  Input/output formatting, Use of comments "
+                           
+                        ]
+                        },
+                        {
+                        "unit_3": " Decision Making and Branching ",
+                        "Topics": [
+                            "3.1 Decision Making and Branching: Relational and logical operators, if statement, if else statement, nested if-else, if-else ladder’, The switch statement ",
+                            "3.2 Looping: while loop, do… while loop  for loop, go to statement, Use of break and continue statements "
+                        ]
+                        },
+                        {
+                        "unit_4": "Array and Structure ",
+                        "Topics": [
+                            "4.1 Characteristics of an array, One dimension and two-dimension arrays, Array declaration and Initialization  ",
+                            "4.2 Array of characters, Operation on array   Character and String input/output ",
+                            "4.3 Introduction and Features of Structures, Declaration and Initialization of   Structures Typedef, Enumerated Data Type, using structures in C Program "
+                        ]
+                        },
+                        {
+                        "unit_5": "Concept and Need of Functions ",
+                        "Topics": [
+                            "5.1 Library functions: Math functions, String handling functions, other miscellaneous functions. ",
+                            "5.2 Writing User defined functions, scope of variables, Parameter passing: call by value, call by reference. ",
+                            "5.3 Recursive functions "
+                        ]
+                        },
+                        {
+                        "unit_6": "Pointers",
+                        "Topics": [
+                            "6.1 Concepts of pointers: declaring, initializing, accessing, Pointer arithmetic. ",
+                            "6.2 Handling arrays using pointers, Handling functions using pointers, Handling structures using pointers "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": " Web Technology",
+                    "subject_code": "2418102",
+                    "units": [
+                        {
+                        "unit_1": " Fundamentals of World Wide Web (www) and HTML ",
+                        "Topics": [
+                            "Information about Web Browsers, URL, Web page, Web site, types of sites. Static vs. dynamic web sites Client-server model, Web Servers, Website Hosting:   Concept of Internet and Intranet. Publishing website on Intranet, Installing and configuring web server   ",
+                            "1.1 HTML HTML documents, Web page structure: Tags and attributes, DOCTYPE, head, body, title and other meta tags with attributes. ",
+                            "1.2 Block Level Tags: Headings, Paragraphs, Breaks, Divisions, Centered Text, Block Quotes, Preformatted text, HR tag. ",
+                            "1.3 Text Level Tags and Special Characters: Bold, Italic, Underline, Strikethrough, Superscript, Subscript, DIV tag, displaying special characters. ",
+                            "1.4 Lists: Ordered Lists, Unordered Lists, Definition Lists, Nested Lists. "
+                    
+                        ]
+                        },
+                        {
+                        "unit_2": "URL, Image, Table and Frame in HTML ",
+                        "Topics": [
+                            "2.1 URL And Anchor Tag: URL: Types of URLs, pros and cons of relative and absolute URLs, Anchor Tag: Linking various documents for internal and external links, linking to area in same page, linking to other page on specific area. ",
+                            "2.2 Images, Colors and Backgrounds: Inserting Images, formatting image for sizing, alignment. Border and using other attributes with IMG tag. Inserting image as page background. Creating solid color page background. ",
+                            "2.3 Table: Table tag with attributes. TABLE, TR, TH, TD tags. Border, cell spacing, cell padding, width, align, bgcolor attributes. ",
+                            "2.4 Frames: Types of Frames with their attributes, Creating frames: FRAMESET tag – rows, cols attributes. "
+                        ]
+                        },
+                        {
+                        "unit_3": " Cascading Style Sheets ",
+                        "Topics": [
+                            "3.1 Basics of CSS: Different types of Style Sheets, Benefits of using CSS. Adding style to the document: Linking to style sheets, embedding style sheets, Using inline style, Selectors: CLASS rules, ID rules. ",
+                            "3.2 Style sheet properties: Font, text, box, color and background properties; Creating and Using a simple external CSS file; Using the internal and inline CSS; background and color gradients in CSS Setting font and text in style sheet using table layout. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Basic JavaScript ",
+                        "Topics": [
+                            "4.1 JavaScript Introduction: writing and executing JavaScript codes, variables, data types, operators, Pop-up boxes- Alert, confirm and prompt boxes ",
+                            "4.2 Control structure: control flow- if-else, switch, for, while, do…while loops break and continue statements, Arrays "
+                        ]
+                        },
+                        {
+                        "unit_5": " Java Script Function, Objects and Events  ",
+                        "Topics": [
+                            "5.1 Functions: Declaring Functions, calling functions with parameters, lifetime of JavaScript variables, JavaScript Objects, String, Date and Math objects, ",
+                            "5.2 Events and exceptions: JavaScript events, error and exception handling, the try...catch...finally Statement, onerror() Method "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Applied Chemistry-B",
+                    "subject_code": "2400103B",
+                    "units": [
+                        {
+                        "unit_1": " Atomic Structure and Chemical Bonding and Solutions: ",
+                        "Topics": [
+                            "1.1. Atoms and its fundamental particles, ",
+                            "1.2. Rutherford Model of Atom,  ",
+                            "1.3. Bohr's Theory, Hydrogen spectrum explanation based on Bohr's Model of Atom,  ",
+                            "1.4. Wave Mechanical model of atom, de Broglie relationship, Heisenberg Uncertainty Principle ",
+                            "1.5. Quantum Numbers, Shapes of Atomic Orbitals, ",
+                            "1.6. Pauli's Exclusion Principle, Hand's Rule of Maximum Multiplicity, Aufbau Principle, Electronic Configuration (till atomic number 30). ",
+                            "1.7. Concept of Chemical bonding - Causes of chemical bonding, Types of Bonds: Ionic Bond (NaCI, CaCl2, MgO), Covalent Bond, Polar and Nonpolar Covalent Bonds (H2. F2. HF, HCI) & Coordinate Bond (CO, NH4+, O3, H2SO4). ",
+                            "1.8. Dipole Moment (NH3, NF3), Hydrogen bonding.  ",
+                            "1.9. Solution- (solute, solvent) and their strengthMolarity, Normality, Molality. ",
+                            "1.10. Indian Chemistry: -Philosophy of atom by Acharya Kanad. (IKS) "
+                        ]
+                        },
+                        {
+                        "unit_2": "Water ",
+                        "Topics": [
+                            "2.1 Introduction, Sources of Water. Hardness of Water- Temporary & Permanent hardness. ",
+                            "2.2 Degree of Hardness (In terms of CaCO3 equivalent), Unit of Hardness, Quantitative Measurement of Water Hardness by EDTA method. ",
+                            "2.3 Municipal supply of Water, Treatment of water, Water Softening Technique-Soda Lime Process, Zeolites method and ion exchange method,  ",
+                            "2.4 Water Quality Index - Biological Oxygen Demand, Chemical Oxygen Demand, Determination of Dissolved Oxygen  ",
+                            "2.5 Indian standard specification of drinking water. "
+                        ]
+                        },
+                        {
+                        "unit_3": "Engineering Materials ",
+                        "Topics": [
+                            "3.1 Natural Occurrence of Metals- Minerals, ores. ",
+                            "3.2 Metallurgy - General principles of Metallurgy, Gangue, Flux and Slag, Steps involved in metallurgy. ",
+                            "3.3 Ancient Indian Metallurgy (IKS) ",
+                            "3.4 Extraction of Aluminium, Iron and Copper from their important ores along with reactions, Properties and uses.  ",
+                            "3.5 Alloys – Definition, Purpose of alloying, Ferrous and Non-Ferrous Alloy with suitable examples, Composition, Properties, and their applications. ",
+                            "3.6 Polymers-Homopolymers and Copolymers, Natural polymers and synthetic polymers, Addition and Condensation polymerization, Thermoplastic and Thermosetting plastic. ",
+                            "3.7 Monomers, applications, and synthesis of Polythene, PVC, Orlon, Terylene, Nylon 66, Nylon 6, Bakelite.  ",
+                            "3.8 Natural Rubber and its vulcanization, advantages of vulcanized rubber. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Solid State ",
+                        "Topics": [
+                            "4.1 General characteristics of solid state, crystalline and amorphous solid. ",
+                            "4.2 Classification of crystalline solid- Molecular, ionic, metallic, covalent solids. ",
+                            "4.3 Crystal lattice and unit cells- Primitive, BCC, FCC ",
+                            "4.4 Imperfections of solid, Types of point defects- stoichiometric defects, impurity defects, nonstoichiometric defects. ",
+                            "4.5 Electrical properties, conduction of electricity in metals and semiconductors- Band theory. ",
+                            "4.6 Magnetic properties- Ferromagnetism, Para magnetism, diamagnetism, anti-ferro magnetism and ferrimagnetism. ",
+                            "4.7  General introduction to X ray diffraction method- Bragg’s law. ",
+                            "4.8 Melting point determination of crystalline solid by Kjeldahl method. "
+                        ]
+                        },
+                        {
+                        "unit_5": "Electrochemistry ",
+                        "Topics": [
+                            "5.1. Introduction, Electrolyte and Nonelectrolyte, Electrolytic and Metallic Conduction, Factors affecting Electrolytic Conductance. ",
+                            "5.2.  Molar Conductivity and Equivalent Conductivity. Variation of Molar Conductivity, Kohlrausch's law.",
+                            "5.3.  Faraday's Laws of Electrolysis.  ",
+                            "5.4. Galvanic Cell, Electrode Potential, Measurement of Electrode Potential SHE (Standard Hydrogen electrode), EMF, Electrochemical Series, Nernst Equation for Electrode Potential. ",
+                            "5.5. Batteries, Primary Cells-Dry cell, Secondary cell -Lead storage battery, Fuel cells. ",
+                            "5.6. Corrosion, their types (Dry & Wet corrosion) and prevention. "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Communication Skills ",
+                    "subject_code": "2400104",
+                    "units": [
+                        {
+                        "unit_1": "Communication      ",
+                        "Topics": [
+                            "1.1 Communication: Role, Relevance, Elements (Context-Sender-Message-Channel-ReceiverFeedback)   ",
+                            "1.2 Process / Stages: Ideation- Encoding, Selecting Proper Channel, Transmission, Receiving, Decoding, Giving Feedback ",
+                            "1.3 7 Cs / Principles of Effective Communication: Considerate, Correct, Concrete, Concise, Clear, Complete. Courteous ",
+                            "1.4 Barriers to Communication: Physiological, Physical, Psychological, Mechanical, Semantic/Language, Cultural. Overcome/ minimize Barriers. ",
+                            "1.5 Case Studies from: Bhagwat Geeta's conversation between Krishna and Arjun before the war (IKS), Mahabharata the conversation between Kauravas and Pandavas in the war field (IKS)"
+                        ]
+                        },
+                        {
+                        "unit_2": "Types of Communication ",
+                        "Topics": [
+                            "2.1 Based on organizational structure: Formal (Vertical, Horizontal, Diagonal), Informal (Grapevine) ",
+                            "2.2 Based on the method of expression: Verbal-Oral & Written communication. Non-verbal communication and its Codes- Kinesics, Chronemics, Proxemics, Haptics, ",
+                            "2.3 Based on the number of people involved: Interpersonal, and Group Communication. ",
+                            "2.4 Case Studies from Bhagwat Geeta‘s different conversations with Krishna and Arjun during the war (IKS). "
+                        ]
+                        },
+                        {
+                        "unit_3": "Reading Comprehension ",
+                        "Topics": [
+                            "3.1 An Astrologer’s Day by R K Narayan",
+                            "3.2 Indian Civilization and Culture by M K Gandhi ",
+                            "3.3 The Secret of Work by Swami Vivekanand ",
+                            "3.4 My Struggle for an Education by Brooker T Washington ",
+                            "3.5 Where the Mind is without Fear by R N Tagore ",
+                            "3.6 Ode on Solitude by Alexander Pope ",
+                            "3.7 Stopping by Woods on a Snowy Evening by Robert Frost ",
+                            "3.8 A Psalm of Life by H W Longfellow "
+                        ]
+                        },
+                        {
+                        "unit_4": " Vocabulary and Grammar   ",
+                        "Topics": [
+                            "4.1 Word Formation: Prefix, Suffix, Acronym ",
+                            "4.2 Synonyms, Antonyms, Homonyms, One Word Substitution, Idioms and Phrases ",
+                            "4.3 Technical Jargons -Related to the respective program ",
+                            "4.4 Parts of speech ",
+                            "4.5 Time and Tense ",
+                            "4.6 Transformation: Voice, Narration, Removal of ‘Too’, Question Tag ",
+                            "4.7 Punctuation "
+                        ]
+                        },
+                        {
+                        "unit_5": "Professional Writing",
+                        "Topics": [
+                            "5.1 Precis Writing ",
+                            "5.2 Business Letters / Applications ",
+                            "5.3 Drafting E-mails, Notices, Memos, Circulars ",
+                            "5.4 Report Writing: Project and Event/ Incident Report Writing "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": " Applied Mathematics- B",
+                    "subject_code": "2400105B",
+                    "units": [
+                        {
+                        "unit_1": " Integral Calculus and its Applications ",
+                        "Topics": [
+                            " 1.1 Concept of Integration. ",
+                            " 1.2 Working rules and Integral of standard   Functions. ",
+                            "1.3 Method of Substitution,  Trigonometric transformation,    Integration by parts and Partial fraction.   ",
+                            " 1.4 Applications: Area and volume. "
+                        ]
+                        },
+                        {
+                        "unit_2": "Number Theory ",
+                        "Topics": [
+                            " 2.1 Euclid’s division algorithm, GCD, LCM. ",
+                            " 2.2 Prime numbers and Fundamental theorem of Arithmetic. ",
+                            "2.3 Congruences and Modular Arithmetic. ",
+                            "2.4 Chinese Remainder Theorem. "
+                        ]
+                        },
+                        {
+                        "unit_3": "Numerical Solution of Nonlinear Equations ",
+                        "Topics": [
+                            "3.1 Algebraic and Transcendental equations. ",
+                            "3.2 Iterative Methods. ",
+                            "3.3 Newton-Raphson Method. ",
+                            "3.4 siterative method for finding the approximate square root. (IKS) "
+                        ]
+                        },
+                        {
+                        "unit_4": "Linear Algebra ",
+                        "Topics": [
+                            "4.1 Rank of a Matrix. ",
+                            "4.2 Cayley-Hamilton Theorem. ",
+                            " 4.3 Eigen values and Eigen vectors of a Matrix. ",
+                            " 4.4   Linearly Independent and Dependent Vectors. "
+                        ]
+                        },
+                        {
+                        "unit_5": "Linear Programming ",
+                        "Topics": [
+                            "5.1 Mathematical formulation of LPP. ",
+                            "5.2 Graphical method of solving LPP. ",
+                            "5.3 Simplex Method "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": " Professional Ethics ",
+                    "subject_code": "2400107",
+                    "units": [
+                        {
+                        "unit_1": " Values and Ethics in Day to Day Life ",
+                        "Topics": [
+                            " 1.1. Values- Definition and examples, Ethics- definition and examples, Concept of attitude and development of attitude ",
+                            "1.2. Importance of values and ethics in day to day activities and at workplace- Ethical ways of communication, environmental considerations in engineering processes, Basic concept of Carbon footprint, ethics at workplace ",
+                            "1.3. Examples of situations depicting values- based decisions and ethical behavior in day to Day life"
+                            
+                        ]
+                        },
+                        {
+                        "unit_2": "Values and Ethics in Profession ",
+                        "Topics": [
+                            "2.1 Relevance of profession to society ",
+                            "2.2 ethical principles such as respecting others and ourselves, respecting the rights of others, keeping promises, avoiding unnecessary problems to others, avoiding cheating and dishonesty, showing gratitude towards others ",
+                            "2.3 Identification of activities and related ethical and unethical behavior for professional activities in their area of work ",
+                            "2.4 Examples of situations depicting values- based decisions and ethical behavior "
+                        ]
+                        }
+                    ]
+                },
+                 {
+                    "subject_name": "",
+                    "subject_code": "",
+                    "units": [
+                        {
+                        "unit_1": " Introduction to Indian Knowledge Systems ",
+                        "Topics": [
+                            "1.1 Overview of IKS ",
+                            "1.2 Organization of IKS – चतुदथश-क्रवद्ास्थानं ",
+                            "1.3 Conception and Constitution of Knowledge in Indian Tradition ",
+                            "1.4 The Oral Tradition ",
+                            "1.5 Models and Strategies of IKS "
+                        ]
+                        },
+                        {
+                        "unit_2": "Overview of IKS Domains and Relevance in Current Technical Education System ",
+                        "Topics": [
+                            "2.1 The Vedas as the basis of IKS ",
+                            "2.2 Overview of all the six Vedāṅgas ",
+                            "2.3 Relevance of following IKS domains in present Technical Education System: Arthashastra (Indian economics and political systems), Ganita and Jyamiti (Indian Mathematics, Astronomy and Geometry, Rasayana (Indian Chemical Sciences), Ayurveda (Indian Biological Sciences / Diet & Nutrition), Jyotish Vidya (Observational astronomy and calendar systems), Prakriti Vidya (Indian system of Terrestrial/ Material Sciences/ Ecology and Atmospheric Sciences), Vastu Vidya (Indian system of AestheticsIconography and built-environment /Architecture), Nyaya Shastra (Indian systems of Social Ethics, Logic and Law), Shilpa and Natya Shastra (Indian Classical Arts: Performing and Fine Arts), Sankhya and Yoga Darshna (Indian psychology, Yoga and consciousness studies), Vrikshayurveda (Plant Science / Sustainable agriculture/food preservation methods) "
+                            
+                        ]
+                        }
+                    ]
+                }
+            ]
+        },
+
+        "semester_3": {
+            "subjects": [
+                {
+                    "subject_name": "Data Structures and Algorithm ",
+                    "subject_code": "2418301",
+                    "units": [
+                        {
+                        "unit_1": " Fundamentals of Algorithms and its Analysis ",
+                        "Topics": [
+                            "1.1.    Data Types System defines data types, User defined data types",
+                            "1.2.   Basic concept of data structure  Linear data structure, Non-linear data structure  , Abstract data types ",
+                            "1.3.  Algorithm and its analysis - Introduction of algorithm, Time Complexity of algorithm, Space Complexity of algorithm,  Worst case analysis, Best case analysis, Average case analysis ",
+                            "1.4.  Asymptotic Notation  Big-O Notation, Omega- Ω Notation, Theta Notation ",
+                            "1.5  Time complexity of recursive algorithm  Basic concept of recursion, Time complexity analysis using Master theorem"
+                            
+                        ]
+                        },
+                        {
+                        "unit_2": "Linear Data Structures ",
+                        "Topics": [
+                            "2.1 Array and String Concept of arrays, Single and Multi-dimensional arrays, Dynamic arrays, Array operations, Time and space complexity of array operations, Introduction to string, String manipulation ",
+                            "2.2 Linked List Introduction to linked list, Singly Linked List, circular Linked List, Basic operation on Linked List: Traversing List, Insertion, deletion, and modification in Linked List ",
+                            "2.3 Stacks and Queue Introduction to Stack, Stack operations, Implementation of Stack using simple array, dynamic array, and Linked List, Application of stack for evaluating Infix or Postfix Expression, balancing the symbols, function calls, Introduction to Queue, Queue operations, Implementation of Queue using simple array, dynamic array, and Linked List, Application of Queue"
+                        ]
+                        },
+                        {
+                        "unit_3": "Non-linear Data Structure ",
+                        "Topics": [
+                            "3.1 Tree :  Basic terminologies:  tree, Degree of a node, Degree of tree, level of node, Depth/height of tree, In-degree, Out-degree, Path, Ancestor & Descendent node - Types of trees: Binary Tree, Binary Search tree (BST), Balance tree, B-tree - Traversal of Binary tree:  In order, pred order, post order traversal ",
+                            "3.2 Priority Queue and Heaps - Introduction to priority queue, Different operations in priority queue, Implementation of priority queue using BST - Basics of Min heap, Max heap, and Binary heap, Basic operation on Binary heap, Heapifying   the elements of binary heap ",
+                            "3.3 Graphs - Basics terminologies: Vertex and edge of graph, weighted and unweighted Graph, directed and undirected graph, Degree, in-degree and outdegree of a node (vertex), Articulation point -  Graph representation: Adjacency Matrix, Adjacency List, Adjacency Set - Graph Traversal: BFS, DFS - Shortest Path in unweighted, weighted, and negative edge graph, Shortest Path algorithm in weighted graph [Dijkstra’s], Shortest Path algorithm in negative edge graph [BellmanFord Algorithm] - Shortest Path algorithm in weighted directed graph [Floyd-Warshall algorithm] - Spanning tree in graph, Minimum Spanning tree algorithm: Prim’s algorithm, Kruskal’s algorithm "
+                        ]
+                        },
+                        {
+                        "unit_4": "Sorting and Searching Techniques ",
+                        "Topics": [
+                            "4.1 Sorting techniques:  - bubble sort, selection sort, insertion sort, quicksort, merge sort ",
+                            "4.2 Searching techniques:  Linear search, Binary search ",
+                            "4.3 Hash Table  Introduction to Hash Table, Hash Function, Hash Collision resolution Techniques: Direct chaining, Open addressing "
+                        ]
+                        },
+                        {
+                        "unit_5": "Algorithm Design Techniques ",
+                        "Topics": [
+                            "5.1 Element of Greedy algorithm - Greedy choice property, Optimal substructure  - Huffman coding algorithm ",
+                            "5.2 Divide and Conquer Techniques - Divide and Conquer Visualization ",
+                            "5.3 Dynamic Programming Approaches - Top-down and button-up Dynamic programming - Basics of Overlapping subproblem and Memorization techniques ",
+                            "5.4 Dynamic Programming Problem Longest common subsequence, Knapsack problem, Matrix chain multiplication "
+                        ]
+                        }
+                    ]
+                },
+                 {
+                    "subject_name": " Operating System  ",
+                    "subject_code": "2418302",
+                    "units": [
+                        {
+                        "unit_1": "Operating System Concepts-  ",
+                        "Topics": [
+                            "1.1 Operating System – Concept, Components of OS, System Software ",
+                            "1.2 Functions of O.S : Program Management, Resource management, File Management, Device Management, Security and protection. ",
+                            "1.3Views of OS: User view, System View   ",
+                            "1.4 Types of Operating Systems and their characteristics: Batch operating system, Multi Programming, Time Shared OS, Multiprocessing OS, Distributed OS, Real-time systems, Mobile OS. ",
+                            "1.5 Services of Operating System. ",
+                            "1.6 System Calls- Concept, types of system calls  "
+                        ]
+                        },
+                        {
+                        "unit_2": " Process Management ",
+                        "Topics": [
+                            "2.1 Process-:  process states, Process Control Block (PCB). ",
+                            "2.2 Process Scheduling- Scheduling Queues, Schedulers, Context switch. ",
+                            "2.3 Inter-process communication (IPC) : Introduction, shared memory system & message passing system. ",
+                            "2.4 Threads - Benefits, users and kernel threads, Multithreading Models - Many to One, One to One, Many to Many. "
+                        ]
+                        },
+                        {
+                        "unit_3": "CPU Scheduling and Algorithm  ",
+                        "Topics": [
+                            "3.1 Scheduling types – scheduling Objectives, CPU and I/O burst cycles, Pre-emptive, Non- Pre-emptive Scheduling, Scheduling criteria. ",
+                            "3.2 Types of Scheduling algorithms - First come first served (FCFS), Shortest Job First (SJF), Shortest Remaining Time First (SRTF), Round  Robin (RR) Priority scheduling, multilevel queue scheduling. ",
+                            "3.3 Deadlock - System Models, Necessary Conditions leading to Deadlocks, Deadlock Handling - Preventions, avoidance. "
+                        ]
+                        },
+                        {
+                        "unit_4": " Memory Management ",
+                        "Topics": [
+                            "4.1 Basic Memory Management - Partitioning, Fixed and Variable, Free Space management Techniques - Bitmap, Linked List.",
+                            "4.2 Virtual Memory – Introduction to Paging, Segmentation, Fragmentation, and Page fault. ",
+                            "4.3 Page Replacement Algorithms: FIFO, LRU, Optimal. "
+                        ]
+                        },
+                        {
+                        "unit_5": "File Management  ",
+                        "Topics": [
+                            "1.1 File – Concepts, Attributes, Operations, types and File System Structure. ",
+                            "1.2 Access Methods – Sequential, Direct, Swapping, File Allocation Methods- Contiguous, Linked, Indexed.",
+                            "1.3 Directory structure-– Single level, two levels, treestructured directory, Disk Organization and disk Structure- Physical structure, Logical structure."
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Discrete Structure",
+                    "subject_code": "2418303",
+                    "units": [
+                        {
+                        "unit_1": " Logic and Proof Techniques ",
+                        "Topics": [
+                            "1.1 Propositional logic: Connectives and Truth Tables, Tautologies and Contradictions, Logical Equivalences. ",
+                            "1.2 Predicate logic: Quantifiers, Nested Quantifiers, Inference rules for predicate logic. ",
+                            "1.3 Mathematical proofs: Basic proof techniques:  Direct proofs, Proof by contrapositive, proof by contradiction and Proof by mathematical induction"
+                        ]
+                        },
+                        {
+                        "unit_2": "Set Theory and Relation ",
+                        "Topics": [
+                            "2.1  Set and subsets. ",
+                            "2.2  Operations on sets. ",
+                            "2.3 Venn diagrams and De Morgan’s law. ",
+                            "2.4  Relations and their properties. ",
+                            "2.5 Equivalence relation. "
+                        ]
+                        },
+                        {
+                        "unit_3": " Combinatorics ",
+                        "Topics": [
+                            "3.1  Basics counting principles. ",
+                            "3.2 Permutations and Combinations. ",
+                            "3.3 Pigeonhole principle (without proof and its application. ",
+                            "3.4 Binomial theorem. ",
+                            "3.5 Generating functions. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Graph Theory ",
+                        "Topics": [
+                            "4.1 Basic concepts and definition. ",
+                            "4.2 Types of Graph and degree of vertex. ",
+                            "4.3 Sub graph and Isomorphic Graphs. ",
+                            "4.4 Walks, Paths, Cycle. ",
+                            "4.5 Eulerian Graph (without proof) and its application. ",
+                            "4.6 Connectivity and Components "
+                        ]
+                        },
+                        {
+                        "unit_5": "Introduction to Fuzzy Set Theory ",
+                        "Topics": [
+                            "5.1 Basics of Fuzzy set theory. ",
+                            "5.2 Membership functions and degrees of membership. ",
+                            "5.3 Fuzzy set theoretic operations. ",
+                            "5.4 Fuzzy propositions and truth values. "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Digital Electronics and Microprocessor ",
+                    "subject_code": " 2418304",
+                    "units": [
+                        {
+                        "unit_1": " Number Systems, Boolean Algebra and Logic Gates ",
+                        "Topics": [
+                            "1.1 Different number systems:  Binary, Octal, Decimal, Hexadecimal  Conversion from one number system to another number systems. ",
+                            "1.2 Arithmetic operation of Binary, Octal, Hexadecimal number systems. ",
+                            "1.3 Complements: 1’s and 2’s complement. ",
+                            "1.4 Data Representation:  Representation of negative number in 1’s and 2’s complement  Subtraction using 1’s and 2’s complement ",
+                            "1.5 Boolean Algebra:  Rules and laws of Boolean Algebra  De-Morgan’s Theorem ",
+                            "1.6 Standard Boolean Representation:  Sum of Product (SOP)  Product of Sum (POS) ",
+                            "1.7 Minimization:  Karnaugh’s Map (K-map) up to three variables  Simplification of Boolean expressions using Boolean laws and K-map. ",
+                            "1.8 Logic Gates and applications:  AND, OR, NOT, Buffer, NAND, NOR, XOR, XNOR (Symbol, Truth table, Logic expression and its applications) ",
+                            "1.9 Implementation of Boolean expressions using basic gates "
+                        ]
+                        },
+                        {
+                        "unit_2": "Combinational and Sequential Logic Circuits ",
+                        "Topics": [
+                            "2.1 Arithmetic Circuits:   Half Adder and Full Adder  Half Subtractor and Full Subtractor ",
+                            "2.2 Multiplexer:   2 to 1 MUX   4 to 1 MUX  Applications ",
+                            "2.3 De-multiplexer:  1 to 2 DEMUX  1 to 4 DEMUX   Applications ",
+                            "2.4 Encoder and Decoder ",
+                            "2.5 Flip-Flops : SR, JK, T, D, and JK, Master Slave JK flip-flop ",
+                            "2.6 Shift Registers:   Serial In Serial Out  Serial In Parallel Out  Parallel In Serial Out  Parallel In Parallel Out  ",
+                            "2.7 Counters:   Modulus of counter  Asynchronous Counter: Ripple up/down counter  Synchronous Counter: Ring Counter "
+                        ]
+                        },
+                        {
+                        "unit_3": "Data Converters and Memory Devices",
+                        "Topics": [
+                            "3.1 Data Converters: Op-Amp: Introduction (Inverting and Non inverting)  Digital to analog and Analog to digital converter: Uses ",
+                            "3.2 Random Access Memory: Introduction and its types ",
+                            "3.3 Read Only Memory: Introduction and its types "
+                        ]
+                        },
+                        {
+                        "unit_4": "Basics, Instruction Set and Programming of 8085 Microprocessor ",
+                        "Topics": [
+                            "4.1 Basics of Microprocessor:  Evolution of Microprocessors  Architecture and Pin diagram of 8085  Timing Diagram and Memory Organization  Interrupts ",
+                            "4.2 Instruction Set:  Data Transfer Instructions  Control instructions  Arithmetic instructions  Logical instructions   Branching instruction",
+                            "4.3 Different types of Addressing Modes:  Immediate Addressing Mode  Register Addressing Mode  Direct Addressing Mode  Indirect Addressing Mode  Indexed Addressing Mode ",
+                            "4.4 Assembly Language Programming "
+                        ]
+                        },
+                        {
+                        "unit_5": "Interfacing with 8085 Microprocessor:  ",
+                        "Topics": [
+                            "5.1 Programmable Peripheral Interface (PPI)Intel 8255 (Generation of I/O Ports) ",
+                            "5.2 Programmable Interval timers (Intel 8253/8254) ",
+                            "5.3 Overview of Memory chips and their interfaces ",
+                            "5.4 Overview of other interfacing chips (Name and Application(s) only) "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Python Programming ",
+                    "subject_code": "2418305",
+                    "units": [
+                        {
+                        "unit_1": " Fundamentals of Python Programming Syntax ",
+                        "Topics": [
+                            "1.1 Introduction to Python Character Set, Python Tokens, Variables, Lvalue and Rvalue Concepts, and the Use of Comments. ",
+                            "1.2Overview of Data Types:   Number Types: Integer, Floating Point, Complex  Boolean Type  Sequence Types: String, List, Tuple  None Type  Mapping Type: Dictionary  Distinction between Mutable and Immutable Data Types ",
+                            "1.3 Understanding Operators:  Arithmetic Operators  Relational Operators  Logical Operators  Assignment Operator  Augmented Assignment Operators  Expressions and Statements  Type Conversion and Input/Output Mechanisms  Precedence of Operators  Expression Evaluation "
+                        ]
+                        },
+                        {
+                        "unit_2": "Conditional and Iterative statements ",
+                        "Topics": [
+                            "2.1 Conditional statements:   simple if statement  if- else statemen  if-elif-else statement ",
+                            "2.2  Iterative statements:    while loop  for loop  range function  break and continue statements  nested loops "
+                        ]
+                        },
+                        {
+                        "unit_3": " String, List, Tuples, set and Dictionary ",
+                        "Topics": [
+                            "3.1 String:  Indexing  string operations (concatenation, repetition, membership & slicing)  traversing a string using loops  built-in functions.",
+                            "3.2 Lists:  Introduction  Indexing in list  list operations: concatenation, repetition, membership & slicing, traversing a list, built- in list functions, linear search on list of numbers and counting the frequency of elements in a list ",
+                            "3.3 Tuples: Creating, initializing, accessing elements, tuple assignment, performing operations on tuples, tuple    methods and builtin functions, nested tuples ",
+                            "3.4 Set: Creating set, traversing, adding, removing data in set, performing set operations like join, Union intersection, difference ",
+                            "3.5 Dictionary: accessing items in a dictionary using keys, mutability of dictionary: adding a new item, modifying an existing item, built-in dictionary functions. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Python Functions, Modules and packages",
+                        "Topics": [
+                            "4.1 Functions: types of function (built- in functions, functions defined in module, user defined functions), creating user defined function, arguments and parameters, default parameters, positional parameters, Lambda functions, returning value, scope of a variable: global scope, local scope ",
+                            "4.2 Modules and Packages: Importing module using 'import' Regular Expressions, Exception Handling, PyPI Python Package Index, Pip Python package manager, Importing Libraries and Functions "
+                        ]
+                        },
+                        {
+                        "unit_5": "Numpy ",
+                        "Topics": [
+                            "5.1 Introduction to NumPy ",
+                            "5.2 Installation of NumPy ",
+                            "5.3 NumPy Arrays:  Understanding the NumPy array   The fundamental data structure in NumPy.  Creation of arrays using different methods: np.array(), np.zeros(), no one’s  (), etc.  Exploring array attributes like shape, size, and dimensions.  ",
+                            "5.4 Array Indexing and Slicing:  Accessing elements and subarrays in NumPy arrays using indexing and slicing.  Demonstration of the difference between one-dimensional and multi-dimensional array indexing. ",
+                            "5.5 Array Operations:  Performing element-wise operations on NumPy arrays.  Exploring universal functions (ufuncs) for mathematical operations. ",
+                            "5.6 Linear Algebra with NumPy:  Introduction to linear algebra operations using NumPy.  Matrix multiplication, determinant, inverse, and solving linear equations. ",
+                            "5.7 File input and output with Numpy ",
+                            "5.8  Broadcasting in Numpy  "
+                        ]
+                        },
+                        {
+                        "unit_6": "Exception and File Handling in Python  ",
+                        "Topics": [
+                            "6.1 Exception Handling: syntax errors, exceptions, need of exception handling, user-defined exceptions, raising exceptions, handling exceptions, catching exceptions, Try - except - else clause, Try - finally clause, recovering and continuing with finally, built-in exception classes. ",
+                            "6.2 File Handling: text file and binary file, file types, open and close files, reading and writing text files, reading and writing binary files, file access modes "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Sports, Yoga and Meditation ",
+                    "subject_code": "2400008",
+                    "units": [
+                        {
+                        "unit_1": "Sports and Exercises ",
+                        "Topics": [
+                            "1.1 Historical development of physical activities and sports in India, Indian ancient games- KhoKho and Kabaddi, Chariot races, riding elephants and horse, swordsmanship, wrestling, boxing, atyapatya, archery, dancing, dands baithak, malkhamb, lezim, lathi etc",
+                            "1.2 Origin of traditional sports, 3rd century BCE- martial arts and archery, indoor games like Chess and Snakes & Ladders have origins in ancient India, in the form of games of Chaturanga and Gyan Chauper,  ",
+                            "1.3 Dholavira, the world’s oldest terraced arena 3000 BC ",
+                            "1.4 Definition of play, game, sports, exercise, psychology, sports psychology and exercise psychology, psychology and common sense. ",
+                            "1.5 Mental toughness- mind, Imagery, use of imagery and imagery in sports, types of imagery (visual, kinesthetic, auditory and olfactory) ",
+                            "1.6 Motivation in sport and goalsetting in sports  ",
+                            "1.7 Arousal regulation – self-awareness of regulation, anxiety reduction techniques- somatic anxiety reduction techniques, cognitive Anxiety reduction, multimodal anxiety reduction, coping with stress. Arousal -inducing techniques. Arousal and anxiety measurement factors, Arousal and anxiety signs recognition  ",
+                            "1.8 Nutrition and rehabilitation, Importance of concentration and attentional focus in sports and training, Impact of health on healing from physical athletic injuries. Impact of exercise to increase mental wellness, Role of coach in sports, parents' involvement in their children's sports activities. ",
+                            "1.9 Adaptation of sports and exercises for physically challenged students in all levels.  "
+                        ]
+                        },
+                        {
+                        "unit_2": "Yoga and Meditation  ",
+                        "Topics": [
+                            "2.1 Origin of yoga, History and development of yoga, Adi yogi, evidences of yoga in   pre-Vedic period (2700 B.C.), Vedic Period, Pre-Classical Period, Classical Period- Patanjali’s period, Modern Period. ",
+                            "2.2 Yoga practices and the related literature- Vedas (4), Upanishads (108), Smritis, teachings of Buddhism, Jainism, Panini, Epics (2), Puranas (18)  ",
+                            "2.3 Importance of Yoga & Mediation, meaning of the term Yoga and Meditation, Fundamentals Principles of Yoga & Fitness training, Eight Limbs of Yoga ",
+                            "2.4 Difference between yoga asana and physical exercises, Difference between yoga and meditation  ",
+                            "2.5 Role of Yoga and Meditation in Purificatory Process, in character building, developing concentration, will power and discipline ",
+                            "2.6 Types of Yoga Practices - Asanas, Pranayama, Meditation ",
+                            "2.7 Mindfulness – knowing the mind, training the mind, feeling the mind",
+                            "2.8 Different Methods of meditation, Physiology of meditation, Mental, physical and emotional benefits of Asanas, Pranayama, Concentration and Meditation  ",
+                            "2.9 Bandha, Mudra and Chakra ",
+                            "2.10 Effects of Asanas and pranayama on physiology of human body  ",
+                            "2.11 Importance of “Suryanamaskar ",
+                            "2.12 Adaptation of Yoga and meditations for physically challenged students in all levels. ",
+                            "2.13 Yoga Asanas Do’s and Don’ts for Beginners "
+                        ]
+                        },
+                        {
+                        "unit_3": "Fitness and Wellness  ",
+                        "Topics": [
+                            "3.1 Evolution of wellness, 3,000-1,500 BC: Ayurveda –holistic system, Tailored Ayurvedic regimens as per unique constitution of each person (their nutritional, exercise, social interaction and hygiene needs) – with the goal of maintaining a balance that prevents illness.  ",
+                            "3.2 Meaning, Importance, Definition and dimensions of Health and Wellness (WHO/Yoga) ",
+                            "3.3 Factors affecting Fitness and Wellness ",
+                            "3.4 Role of Physical Activities and Recreational Games in maintaining physiological and psychological wellbeing. ",
+                            "3.5 Different Methods to Maintain Health, Wellness and to enhance mood ",
+                            "3.6 Nutrition for Health & Wellness, Relationship between Diet and Fitness Components of Balance Diet and its importance – Carbohydrates, Protein, Fat, Vitamins & Minerals, Water, Healthy Lifestyle through Diet and Fitness ",
+                            "3.7 Anxiety, Stress and Aging-Meaning of Anxiety, Stress and Aging, Types and Causes of Stress,  ",
+                            "3.8 Stress, anxiety and depression reduction with exercise, yoga and meditation  ",
+                            "3.9 Energy Continuum and Recovery Process, Metabolism and exercise, Recovery from exercise, Replenishment of energy stores during recovery process, Removal of excess lactic acid produced during exercis"
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Principles of Management ",
+                    "subject_code": "2400111",
+                    "units": [
+                        {
+                        "unit_1": " Introduction to Management and Planning",
+                        "Topics": [
+                            "1.1 Nature and Purpose. ",
+                            "1.2 Evolution of Management Thoughts. ",
+                            "1.3 System approach to Management Process.  ",
+                            "1.4 Types of Plans: Missions or Purpose, Objective or Goals, Strategies, Policies, Procedures. ",
+                            "1.5 Decision Making. "
+                        ]
+                        },
+                        {
+                        "unit_2": " Organizing and Staffing ",
+                        "Topics": [
+                            "2.1 Nature of Organizing ",
+                            "2.2 Formal and Informal Organization ",
+                            "2.3 Principles of Organizing, Organizational Hierarchy, Authority, and Power. ",
+                            "2.4 Staffing, Recruitment, Selection, Performance Appraisal. "
+                        ]
+                        },
+                        {
+                        "unit_3": " Motivation and Leadership ",
+                        "Topics": [
+                            "3.1 Motivation ",
+                            "3.2 McGregor Theory of X and Y ",
+                            "3.3 Maslow Hierarchy of Needs Theory ",
+                            "3.4 Herzberg’s Motivation- Hygiene Theory ",
+                            "3.5 Leadership: Definition, Ingredients, Styles, theories "
+                        ]
+                        }
+                    ]
+                }
+            ]
+        },
+
+        "semester_4": {
+            "subjects": [
+               {
+                    "subject_name": "Java Programming ",
+                    "subject_code": "2418401",
+                    "units": [
+                        {
+                        "unit_1": " Basic Syntactical Constructs in Java ",
+                        "Topics": [
+                            "1.1 Java Features and the Java Programming Environment ",
+                            "1.2 Object-Oriented Paradigm:- - Objects & Classes - Data Abstraction - Data Encapsulation - Inheritance - Polymorphism ",
+                            "1.3 Benefits of OOP ",
+                            "1.4 Applications of OOP ",
+                            "1.5 Java History ",
+                            "1.6 Java Features - Simple small & Familiar - Compiled or Interpreted - Platform independent - Portable - Object Oriented - Robust & Secure - Distributed - Multithreaded & Interactive - Ease of development ",
+                            "1.7 Java vs C ",
+                            "1.8 Java vs C++ ",
+                            "1.9    Java Environment - Java Development Kit (JDK)  -    Java Development Tool ",
+                            "1.10 Application Programming Interface  -   Language Support Package   -   Utilities Package                    -   Input/output Package                    -   AWT Package                    -   Applet Package                    -   Networking Package ",
+                            "1.11 Simple Java Program  -   Class Declaration                    -   Opening & Closing Braces                    -   Main line                    -   Output line                    -   Creating object ",
+                            " 1.12 Java Programming with multiple Statement                       -   Application with two classes                       -   Accessing class members                       -   Use of Math Function                       -   Comments ",
+                            "1.13 Java Program Structure                       -  Document Section                       -  Package statement                       -  Import Statement                       -  Interface Statements                       -  Class Definitions                       -  Main method Class           ",
+                            "1.14 Java Tokens ",
+                            "1.15 Compiling the Program                       -  Java Compiler javac ",
+                            "1.16 Running the Program                       -  Java Interpreter ",
+                            "1.17 Java Virtual Machine                       -  Byte Code ",
+                            "1.18 Command line Arguments ",
+                            "1.19 Constant & Variables ",
+                            "1.20 Data Types                       -  Primitive Data Types                       -  Non Primitive Data Types ",
+                            "1.21 Operators:-                        -  Arithmetic Operators                        -  Relational Operators                        -  Logical Operators                        -  Increment & Decrement                                              -  Conditional Operators                        -  Bit wise Operator                        -  Dot Operators                        - Ternary Operator ",
+                            "1.22     Expressions:-                            -  Operator precedence                            -  Associativity ",
+                            "1.23 Decision Statement:-                       -  if statement                       -  if else statement                       -  nested if else statement                       -  if else if ladder                       -  switch statement ",
+                            "1.24 Loop Statement:-                         -  While statement                         -  Do while statement                         -  for statement                         -  for-each statement. ",
+                            "1.25 Control Statement:-                          - Break                         -  Continue                         -  Return statement "
+                        ]
+                        },
+                        {
+                        "unit_2": "Derived Syntactical Constructs in Java: ",
+                        "Topics": [
+                            "2.1 Constructors             -  Default              - Parameterized              - Non parameterized ",
+                            "2.2  ‘this’ keyword ",
+                            "2.3  Command line arguments   -  Varargs: variable-length arguments  ",
+                            "2.4 Visibility Control:               -  Public                - Private                 - Protected                - Default ",
+                            "2.5      Arrays                           -  Types of arrays                          -  Declaration of Arrays                          -  Creating an arrays                          -  Initialization of Arrays ",
+                            "2.6    Strings                         -  String classes                          -  String Buffer "
+                        ]
+                        },
+                        {
+                        "unit_3": " Inheritance, Interface and Package: ",
+                        "Topics": [
+                            "3.1 Inheritance : Concept of Inheritance ",
+                            "3.2 Types of Inheritance                     -  Single Inheritance - Multiple                     -  Multilevel Inheritance                     -  Hierarchical Inheritance ",
+                            "3.3    Interface                          -  Defining interface                                -  Extending interface                                -  Implementing interface ",
+                            "3.4   Method  overloading and overriding ",
+                            "3.5 Package           -  Define package           -  Types of package           -  Naming and creating packages           -  Accessing package           -  Using a Package           -  Import statement "
+                        ]
+                        },
+                        {
+                        "unit_4": " Errors & Exception Handling, Multithreading: ",
+                        "Topics": [
+                            "4.1 Errors          -  Introduction ",
+                            "4.2     Types of Errors                         - Compile-Time Errors                         - Run-Time Errors ",
+                            "4.3   Exceptions                            -  try and catch statement                            -  nested try statement,                             -  throws and Finally statement ",
+                            "4.4 Built-in exceptions  ",
+                            "4.5 Multithreaded Programming         -  Creating a Thread: By extending to thread class   -  Creating a thread by implementing runnable Interface ",
+                            "4.6 Life cycle of thread:                                    -  New State                                    -  Runnable State                                    -  Running State                                    -  Blocked State                                    - Dead State ",
+                            "4.7  Thread Methods:                          -   wait ()                          -   sleep()                          -   notify()                          -   resume()                          -   suspend()                          -   stop() "
+                        ]
+                        },
+                        {
+                        "unit_5": "Managing Input/Output/Files in Java: ",
+                        "Topics": [
+                            "5.1    Introduction and Concept of Streams. ",
+                            "5.2    Stream Classes. ",
+                            "5.3    Byte Stream Classes:                          -  Input Stream Classes                          - Output Stream Classes. ",
+                            "5.4    Character Stream Classes:                           - Using Reader Stream classes                           - Using Writer Stream classes ",
+                            "5.5    Using File Class:                              -  I/O Exceptions                             -  Creation of  Files                             -  Reading/Writing Bytes                             -  Handling Primitive Data types. "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Theory of Computation",
+                    "subject_code": "2418402",
+                    "units": [
+                        {
+                        "unit_1": "Introduction to Theory of Computation ",
+                        "Topics": [
+                            "1.1 Alphabet, Languages, and Grammar: - Introduction to Alphabet: Set of Symbols or Characters -Exploration of the languages: Sets of strings -Introduction to grammar: Set of rules, Structure, and formation of valid strings. Productions and derivations ",
+                            "1.2 Productions and Derivations:       -   Concept of production in the grammar.       -  Explanation of the derivation to generate a string. ",
+                            "1.3 Chomsky Hierarchy of Languages:      -  Introduction to Chomsky Hierarchy.      - Levels of formal language category:     Type-3 (Regular), Type-2 (Context-Free), Type1 (Context-Sensitive), and Type-0 (Unrestricted). "
+                        ]
+                        },
+                        {
+                        "unit_2": "Regular languages and Finite Automata ",
+                        "Topics": [
+                            "2.1 Regular expressions and languages., Deterministic finite automata (DFA) and equivalence with regular expressions. ",
+                            "2.2 Non-deterministic finite automata (NFA) and equivalence with DFA,  ",
+                            "2.3 Regular grammars and equivalence with finite automata, Properties of regular languages, Pumping lemma for regular languages, ",
+                            "2.4 Minimization of finite automata. ",
+                            "2.5 Mealy and Moore machine "
+                        ]
+                        },
+                        {
+                        "unit_3": "Context-Free Languages and Pushdown Automata ",
+                        "Topics": [
+                            "3.1 Context-free grammars (CFG) and languages (CFL) ",
+                            "3.2 Chomsky and Greibach normal forms ",
+                            "3.3 Non-deterministic pushdown automata (NPDA) and equivalence with CFG ",
+                            "3.4 Parse trees and ambiguity in CFG ",
+                            "3.5 Pumping lemma for context-free languages ",
+                            "3.6 Deterministic pushdown automata and closure properties of CFLs. "
+                        ]
+                        },
+                        {
+                        "unit_4": " Context-Sensitive Languages and Turing Machines ",
+                        "Topics": [
+                            "4.1 Context-sensitive grammars (CSG) and languages ",
+                            "4.2 Linear bounded automata (LBA) and equivalence with context-sensitive grammar ",
+                            "4.3 The basic model for Turing machines (TMs) ",
+                            "4.4 Turing-recognizable (recursively enumerable) and Turing-decidable (recursive) languages and their closure properties ",
+                            "4.5 Variants of Turing machines, including nondeterministic TMs and equivalence with deterministic TMs ",
+                            "4.6 Unrestricted grammars and equivalence with Turing machines ",
+                            "4.7 TMs as enumerators. "
+                        ]
+                        },
+                        {
+                        "unit_5": "Undecidability ",
+                        "Topics": [
+                            "5.1 Church-Turing thesis and universal Turing machine ",
+                            "5.2 Diagonalization languages and reduction between languages, Reduction Theorem, Properties of Reduction ",
+                            "5.3 Rice's theorem and undecidable problems about languages ",
+                            "5.4 P, NP, NP-complete, and NP Hard class of problems "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Database Management System",
+                    "subject_code": "2418403",
+                    "units": [
+                        {
+                        "unit_1": "Overview of the Database Management System ",
+                        "Topics": [
+                            "1.1 Database- Concept of database, Need of Database, Advantage of database, Application of Database, Traditional Database ",
+                            "1.2 Database Management System, File Processing System, Advantages of DBMS over file processing system, Characteristic of Database  ",
+                            "1.3 Relational Data Model- Domain, Attributes, Tuples and Relations ",
+                            "1.4 Types of Database System-Centralized Database System, Parallel Database System, Client / Server Database System, Distributed Database System "
+                        ]
+                        },
+                        {
+                        "unit_2": "Relational Database Management System (RDBMS): ",
+                        "Topics": [
+                            "2.1 Introduction to RDBMS, RDBMS terminology. Relational Model (Instances, Schema). ",
+                            "2.2 E-R model concept- Notation for E-R diagram, Component of E-R diagram, Strong Entity set, Weak Entity set, Types of Attributes, E-R design Issues ",
+                            "2.3 Keys in DBMS- Primary key, Candidate key, Foreign key, Super Keys, Alternate Keys ",
+                            "2.4 Integrity Constraints- Domain Constraint, Entity Integrity Constraint, Referential Integrity Constraint, Key Constraint ",
+                            "2.5 Conversion of E-R diagram into Table"
+                        ]
+                        },
+                        {
+                        "unit_3": " Relational Database Design:  ",
+                        "Topics": [
+                            "3.1 Functional Dependency, Closures of a Set of Functional Dependencies. ",
+                            "3.2 Normalization & Normal forms- 1NF, 2NF, 3NF, BCNF ",
+                            "3.3 Denormalization: Process, benefits and draw back. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Relational Algebra & SQL: ",
+                        "Topics": [
+                            "4.1 Concept of relational algebra ",
+                            "4.2 Types of relational operations- Select operation, Project operations, Union operations, Set Intersection operations, Set Difference operations, Cartesian operations, Rename operations ",
+                            "4.3 Join operations- Natural Join, Outer Join, Equi Join  ",
+                            "4.4 Overview of SQL- SQL Commands - Data Definition language (DDL), Data Manipulation Language (DML), Data Control Language (DCL) - Select, Insert, Update, Delete SQL Statements ",
+                            "4.5 SQL Clauses- Group by, Having, Order by clause",
+                            "4.6 Aggregate functions- Max, Min, Sum, Count, Avg  ",
+                            "4.7 SQL Join Operations, Inner join, Left join, Right join, Full join ",
+                            "4.8 SQL Queries - Correlated and Nested Query ",
+                            "4.9 TCL: Commit, save point, rollback, set transaction "
+                        ]
+                        },
+                        {
+                        "unit_5": "Other Schema Objects  ",
+                        "Topics": [
+                            "5.1 Views: Concept of View, The Create and update Views, Views and Joins, Views and Sub queries, Dropping Views. ",
+                            "5.2 Sequences: Concept and need of Sequence Creating Sequences, Altering Sequences, Dropping Sequences. ",
+                            "5.3 Indexes: need of index, index Types, creating of an Index: Simple Unique, and Composite Index, Dropping Indexes ",
+                            "5.4 Synonyms: Creating Synonyms, Dropping Synonyms."
+                            
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Computer Organization and Architecture ",
+                    "subject_code": "2418404",
+                    "units": [
+                        {
+                        "unit_1": "Basic Computer Organization and Design: ",
+                        "Topics": [
+                            "1.1  Instruction Codes 1.1.1 Stored Program Organization 1.1.2 Instruction Set  1.1.3 Instruction Cycle (Fetch, Decode, Execute)  1.1.4 Register Reference Instruction ",
+                            "1.2 Memory Reference Instructions ",
+                            "1.3 Interrupt 1.3.1 Hardware and Software 1.3.2 Maskable and Non-Maskable 1.3.3 Input and Output ",
+                            "1.4 Types of buses (Address, Data, Memory) and bus arbitration.  ",
+                            "1.5 Register, Bus, and memory transfer.  ",
+                            "1.6 Processor organization, general registers organization (Control Word), stack organization (Register Stack, Memory Stack) ",
+                            "1.7  Addressing Modes (Direct, Indirect, Register Direct, Immediate etc.) ",
+                            "1.8 Program Control 1.8.1 Conditional Branch Instruction 1.8.2 Subroutine call and return "
+                        ]
+                        },
+                        {
+                        "unit_2": " Arithmetic and logic unit: ",
+                        "Topics": [
+                            "2.1  Addition and Subtraction 2.1.1 Addition and Subtraction with Signed Magnitude 2.1.2 Hardware Implementation 2.1.3   Addition and Subtraction with Signed 2’s Complement Data ",
+                            "2.2 Multiplication Algorithm 2.2.1 Signed operand multiplication  2.2.2 Booths algorithm and array multiplier.  ",
+                            "2.3 Division Algorithms 2.3.1 Hardware Implementation for signed Magnitude data 2.3.3 Divide Overflow ",
+                            "2.4 Decimal Arithmetic Unit 2.5.1 Floating point arithmetic operation 2.5.2 Addition and Subtraction ",
+                            "2.5 IEEE Standard for Fixed Point and Floating-Point Numbers "
+                        ]
+                        },
+                        {
+                        "unit_3": " Input-Output Organization  ",
+                        "Topics": [
+                            "3.1   Input Output Interface 3.1.1 I/O Bus and Interface Module 3.1.2 I/O versus Memory Bus 3.1.3 Example of I/O Interface ",
+                            "3.2 Asynchronous Data Transfer 3.2.1 Asynchronous Communication Interface 3.2.2 Handshaking ",
+                            "3.3 Modes of data transfer 3.3.1 Programmed I/O 3.3.2 Interrupt Initiated I/O 3.3.3 Direct Memory Access 3.3.3.1DMA Controller 3.3.3.2 DMA Transfer ",
+                            "3.4 Serial Communication         3.4.1 Character Oriented Protocol          3.4.2 Bit Oriented Protocol ",
+                            "3.5 Parallel Communication ",
+                            "3.6 Serial vs Parallel Communication"
+                        ]
+                        },
+                        {
+                        "unit_4": " Memory Organization: ",
+                        "Topics": [
+                            "4.1 Basic concept and Memory Hierarchy ",
+                            "4.2 Types of Memory 4.2.1 Read Only Memory 4.2.2 Random Access Memory 4.2.3 Cache Memory 4.2.4 Register Memory 4.2.5 Auxiliary Memory(Magnetic Disk, Magnetic Tape) ",
+                            "4.3 Associative Memory 4.3.1 Hardware Organization 4.3.2 Match Logic 4.3.3 Read and Write Operation ",
+                            "4.4 Cache Memory 4.4.1 Associative Mapping 4.4.2 Direct Mapping 4.4.3 Set Associative Mapping  4.4.4 : Concept and design issues & performance 4.4.5 Calculate Hit Ratio, Miss Ratio and Performance ",
+                            "4.5 2D & 2 1/2D memory organization.  ",
+                            "4.6 Virtual memory 4.7.1Address Space and Memory Space 4.7.2 Implementation of Virtual Memory 4.7.3 Page Replacement(FIFO,LRU) "
+                        ]
+                        },
+                        {
+                        "unit_5": " Pipelining and Vector Processing: ",
+                        "Topics": [
+                            "5.1 Introduction to Pipelining        5.1.1 Definition of Pipelining        5.1.2 Need for Pipelining in modern processor ",
+                            "5.2 Pipeline Stages (Fetch, Decode, Execute, Memory, Write Back) ",
+                            "5.3 Pipelining Hazards (Structure Hazards, Data Hazards) ",
+                            "5.4 Performance Metrics of CPU (Access Time, EMAT (Effective Memory Access Time), Scale Factor "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Computer Troubleshooting & Maintenance  ",
+                    "subject_code": "2418405",
+                    "units": [
+                        {
+                        "unit_1": "Internal components of the PC ",
+                        "Topics": [
+                            "1.1 Computers: Desktop Computers, Tablet, Laptop, Mainframe, Supercomputer. ",
+                            "1.2 Features description: Hardware components of Desktop Systems, Laptops, and Tablets.  ",
+                            "1.3 Motherboard: Definition, parts and connections, and functioning block diagram ",
+                            "1.4 Processor: Common Features, Types of Processors (Microprocessor, Microcontroller etc.). Basic Structure of CPU, Different levels of cache, system bus, clock speed. a. Multiple Core Processors: Description, two core processor architecture and multi-core processor architecture ",
+                            "1.5 BIOS: Basic Input Output System Services, Bios Interaction, date and time, Boot device priority, boot setting configuration, password security.  ",
+                            "1.6 System Memory: definition, memory sizes, speeds, and shapes (DIP, ZIP, SIPP, SIMM, DIMM, RIMM),  Memory modules (Dynamic RAM, SDRAM, DDR SDRAM, SLDRAM, DRDRAM, Fast Page Mode (FPM) DRAM, Extended Data Out (EDO) DRAM). ",
+                            "1.7 Power Supply: Purpose and Features of SMPS, Working of SMPS  Fault finding in power supply Uninterrupted Power Supply: Characteristics of UPS, Types of UPS, online and offline Preventive Maintenance of Power Supply "
+                        ]
+                        },
+                        {
+                        "unit_2": "Input Device, Output device, and Storage Devices ",
+                        "Topics": [
+                            "2.1 Keyboard: Keyboard operation, Keyboard Types, Keyboard interfaces ",
+                            "2.2 Mouse: Types, Operation, Interfaces ",
+                            "2.3 Scanner: Scanner Types, Image quality measurement, Working  ",
+                            "2.4 Printer: Printer interface, Types of printers Ink-jet Printer: Parts, working  Principle LaserJet Printer: Parts, working  Principle. "
+,                           " 2.5     Monitor: Video Basics (CRT parameters),               VGA monitors               Digital Display Technology- Thin                Displays, Liquid Crystal Displays,                Plasma Displays, Light Emitting                Displays              Graphics Cards: Components of a               card, Accelerated Video cards, CGA,               EGA, VGA ",
+                            "2.6       Hard Disk Drive: Disk Basics         Hard Disk Interfaces: EIDE, Serial          ATA, SCSI, USB, and IEEE 1394          (Firewire), RAID             Solid State Drive: Types of              SSD, Interface,Working Principal          Disk Geometry: Heads, Tracks,           Sectors, Cylinders, Cluster, Landing           zone, MBR, Zone bit recording          Disk performance Characteristics:           Seeks and Latency, Data Transfer Rate           Explain the working of hard disk            controller           Hard Disk Controller: Functional            Blocks, HDC Functions Pend Drive: Types of pen drive,  working   principle of Pen drive. "
+                        ]
+                        },
+                        {
+                        "unit_3": "Software’s, Malware, Security, and Drivers",
+                        "Topics": [
+                            "3.1 Operating System Installation and Setup,  Command-Line Usage, File System Management, User Account and Security, Networking and Connectivity, Software Updates, Customization and Personalization, Troubleshooting Scenarios ",
+                            "3.2 Software Applications:  Microsoft Word, Google Docs, Microsoft Excel, Google Sheets, Google Slides, Adobe Photoshop, Adobe Dreamweaver, WordPress ",
+                            "3.3 Malware and Security Basics definition of Malware, Viruses, and security threats. Methods of detecting and removing malware, viruses, and other security threats and protecting the system. ",
+                            "3.4 Device Driver Software Definition of device driver, Need and importance of driver, Installing and configuration of driver for various devices including plug and play types of drivers. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Network and Internet Connectivity ",
+                        "Topics": [
+                            "4.1 Introduction to Networking Devices Switches, Routers, Types of Switches, Connectivity of switch and up linking using uplink port and using regular port, Types of Routers, Connectivity of Router and Access point, Basic router-parameter-configuration ",
+                            "4.2 Internet Connectivity Types of internet connectivity, Broadband, Leased Line connection ",
+                            "4.3 Firewalls and Security: Need for firewalls and their role in network security                   Types of Firewalls- hardware and software-based firewalls, Firewall Configuration and Management, Firewalls and Virtual Private Networks (VPNs), Packet Filtering, Proxy Servers"
+                            
+                        ]
+                        },
+                        {
+                        "unit_5": " Data Recovery and System Performance Optimization",
+                        "Topics": [
+                            "5.1  Data Loss Causes: Human Error, Viruses & Malware, Power Outages, Hardware failure, Natural Disasters, Software Corruption, Migration errors ",
+                            "5.2 Data Recovery Methods: File Restore, Volume, Restore, Local virtualization, Cloud virtualization ",
+                            "5.3 Data Backup Strategies: -   Types of Backups: Full backup, Incremental backup, Differential backup Direct-to-cloud backup, cloud-to-cloud backup, and SaaS backup ",
+                            "5.4  System Performance Optimization:  System Performance Metrics, Registry Cleaning and Optimization Overheating and Cooling Solutions Hardware Upgrades for Performance Optimize the performance of system, Managing background tasks, and upgrading              hardware components. "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": " Environmental Education and Sustainable Development ",
+                    "subject_code": "2400006",
+                    "units": [
+                        {
+                        "unit_1": "Ecosystem  ",
+                        "Topics": [
+                            "1.1 Aquatic & Terrestrial ecosystem ",
+                            "1.2 Structure of ecosystem ",
+                            "1.3 Food chain & Food web  ",
+                            "1.4 Carbon, Nitrogen, Sulphur & Phosphorous Cycle ",
+                            "1.5 Global warming – Causes & Effects  "
+                        ]
+                        },
+                        {
+                        "unit_2": "Air & Water Pollution  ",
+                        "Topics": [
+                            "2.1 Traditional pollution issues- Air, Water, Noise ",
+                            "2.2 Water pollution 2.2.1 Sources of water pollution 2.2.2 Effects of water pollution 2.2.3 Control of water pollution 2.2.4 Physical & chemical standard of domestic water as per Indian Standard ",
+                            "2.3 Air pollution 2.3.1 Sources of air pollution 2.3.2 Air pollutants 2.3.3 Effects of air pollution on human, plant & animal 2.3.4 Air monitoring system 2.3.5 Air pollution control    "
+                        ]
+                        },
+                        {
+                        "unit_3": "Sustainability & Renewable Sources of Energy ",
+                        "Topics": [
+                            "3.1 Concept of sustainable development  ",
+                            "3.2 Renewable sources of energy for sustainable development  ",
+                            "3.3 Solar Energy 3.3.1 Features of solar thermal & PV system 3.3.2 Solar pond, Solar water heater, Solar dryer and Solar stills   ",
+                            "3.4 Wind Energy 3.4.1 Current status & future prospects of wind energy 3.4.2 Wind energy in India- Advantages and challenges of harnessing wind energy 3.4.3 Environmental benefits & limitations ",
+                            "3.5 Biomass 3.5.1 Types of Biomass energy sources 3.5.2 Energy content in Biomass of different types 3.5.3 Biogas production ",
+                            "3.6 Concept and advantages of hydroponics or aquaponics system to demonstrate soil less cultivation and integration of fish and plant cultivation. ",
+                            "3.7 Water conservation and sustainable development ",
+                            "3.8 New Energy Sources: Hydrogen energy, Ocean energy & Tidal energy "
+                        ]
+                        },
+                        {
+                        "unit_4": "Climate Change and Sustainable Development  ",
+                        "Topics": [
+                            "4.1 Impact of Climate change ",
+                            "4.2 Factor contributing to climate change  ",
+                            "4.3  Sustainable development Goals (SDGs) ",
+                            "4.4 Action Plan on Climate Change- India "
+                        ]
+                        },
+                        {
+                        "unit_5": "Environmental legislation and Sustainable Building Practices ",
+                        "Topics": [
+                            "5.1 Environment management system and Planning  ",
+                            "5.2 Green Building concept  ",
+                            "5.3 Green and sustainable building materials 5R concept  ",
+                            "5.4 Environment protection acts, legislation and Laws ",
+                            "5.5 Zero carbon foot-print  building for sustainable constriction. "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": " Employability Skills Development ",
+                    "subject_code": "2400408",
+                    "units": [
+                        {
+                        "unit_1": "Goal Setting ",
+                        "Topics": [
+                            "1.1 Career planning, SWOT ",
+                            "1.2 Resume using Internet formats. ",
+                            "1.3 Showcase portfolios. ",
+                            "1.4 Personal grooming. ",
+                            "1.5 Self-Introduction. ",
+                            "1.6 Website Development. "
+                        ]
+                        },
+                        {
+                        "unit_2": "Capacity Development ",
+                        "Topics": [
+                            "2.1 Interview Skills ",
+                            "2.2 Group Discussion – Do’s & don’ts, leadership, Teamwork, how to interrupt, synthesis, and analysis of topics. ",
+                            "2.3 Social Media for Personal Enrichment ",
+                            "2.4 Body language ",
+                            "2.5 Self-Management. ",
+                            "2.6 Emotional Intelligence "
+                        ]
+                        },
+                        {
+                        "unit_3": "Utilizing Potential ",
+                        "Topics": [
+                            "3.1 Social Networking ",
+                            "3.2 Social Engagements, Volunteering  ",
+                            "3.3 Collaboration& Team-work. ",
+                            "3.4 QC-Tools – Check sheets, Fishbone Diagram, Histogram, Pareto chart, Control-chart, Scatter Diagram, Stratification, ",
+                            "3.5 Lean Manufacturing, Kanban, Kaizen, Five S, Poka-yoke, Quality Circle  "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Community/ Society Development ",
+                    "subject_code": "2400110",
+                    "units": [
+                        {
+                        "unit_1": " Community and Society Development Framework ",
+                        "Topics": [
+                            "1.1 Concept of Community/Society Development ",
+                            "1.2 Difference between Rural and Urban Societies ",
+                            "1.3 Characteristics of Underdevelopment and development ",
+                            "1.4 Components of Community Development "
+                        ]
+                        },
+                        {
+                        "unit_2": "Community Development Initiatives ",
+                        "Topics": [
+                            "2.1 Community Development Programmes in India-Historical perspective ",
+                            "2.2 Institutions Engaged in Community Development Programmes ",
+                            "2.3 Contemporary Community Development Initiatives. ",
+                            "2.4 Sustainable Community Development "
+                        ]
+                        },
+                        {
+                        "unit_3": " Community Development Schemes ",
+                        "Topics": [
+                            "3.1 Role of polytechnics in Community development. ",
+                            "3.2 Scheme of Community Development through Polytechnics ",
+                            "3.3 Unnat Bharat Abhiyan "
+                        ]
+                        }
+                    ]
+                }
+            ]
+        },
+
+        "semester_5": {
+            "subjects": [
+                {
+                    "subject_name": "Data Communication and Computer Network ",
+                    "subject_code": "2418501",
+                    "units": [
+                        {
+                        "unit_1": " Data Communications and Transmission Media ",
+                        "Topics": [
+                            "1.1 Process of data communication and its components: Transmitter, Receiver, Medium, Message, Protocol. ",
+                            "1.2 Protocol, Standard, Standard organization. Bandwidth, Data Transmission Rate, Baud Rate and Bits per second ",
+                            "1.3 Models of Communication (Simplex, Half Duplex, full Duplex) ",
+                            "1.4 Analog Signal and Digital Signal Transmission: Analog to Digital, Digital to Analog Conversion ",
+                            "1.5 Fundamentals of Computer Network: Definition and Need of Computer Network, Application, Network Benefits. ",
+                            "1.6 Classification of Network LAN and WAN ",
+                            "1.7 Network Architecture: Peer to peer, Client Server Network ",
+                            "1.8 Communication Media: guided Transmission Media, Twisted-Pair Cable, Coaxial Cable Fiber- optic Cable ",
+                            "1.9 Unguided Transmission Media, Radio Waves, Microwaves, Infrared, Satellite ",
+                            "1.10 Multiplexing: Frequency-Division Multiplexing, Time-Division Multiplexing. "
+                        ]
+                        },
+                        {
+                        "unit_2": " Data Link Layer ",
+                        "Topics": [
+                            "2.1 Introduction: Types of Errors, Redundancy, Detection Versus Correction, Coding ",
+                            "2.2 Block coding: Error Detection, Error Correction Hamming Distance, Minimum Hamming Distance ",
+                            "2.3 Cyclic codes: Cyclic Redundancy Check, Polynomials, Cyclic Code Analysis, CHECKSUM",
+                            "2.4 Framing: Fixed-Size Framing, Variable-Size Framing ",
+                            "2.5 Flow and error control: Flow Control, Error Control ",
+                            "2.6 Flow and error control: Flow Control, Error Control Noiseless channels: Simplest Protocol, Stop- and-Wait Protocol ",
+                            "2.7 Noisy channels: Stop-and-Wait Automatic Repeat Request, Go-Back-N Automatic Repeat Request, Selective Repeat Automatic Repeat Request, Piggybacking. ",
+                            "2.8 Point-to-point protocol ",
+                            "2.9 Random access: ALOHA, Carrier Sense Multiple Access (CSMA), Carrier Sense Multiple Access with Collision Detection (CSMACD), Carrier Sense Multiple Access with Collision Avoidance (CSMACA) ",
+                            "2.10 Channelization: Frequency-Division Multiple Access (FDMA), Time-Division Multiple Access (TDMA), Code-Division Multiple Access (CDMA)",
+                            "2.11 Ethernet: Bridged Ethernet, Switched Ethernet Fast Ethernet, Gigabit Ethernet ",
+                            "2.12 Connecting devices: HUBs, Two-Layer Switches Routers, Three-Layer Switches, Gateway "
+                        ]
+                        },
+                        {
+                        "unit_3": "Network Layer ",
+                        "Topics": [
+                            "3.1 IPv4 addresses: Address Space, Notations, Classful Addressing, special case IP addresses, subnet, supernet, Classless Addressing, Network Address Translation (NAT), Datagram ",
+                            "3.2 Fragmentation, Checksum, Options",
+                            "3.3 Introduction to IPV6: Advantages, Tunneling ",
+                            "3.4 Address mapping: Logical to Physical Address: ARP, Mapping Physical to Logical Address: RARp. ",
+                            "3.5 Router Forwarding table, and Routing: Function of unicast and multicast routing protocols"
+                        ]
+                        },
+                        {
+                        "unit_4": "Transport Layer ",
+                        "Topics": [
+                            "4.1 Process to Process Delivery: -Client/Server Paradigm, Multiplexing and Demultiplexing, Connectionless Versus Connection-Oriented Service, Reliable Versus Unreliable ",
+                            "4.2 User datagram protocol (UDP): -Well-Known Ports for UDP, User Datagram, Checksum, UDP Operation, Use of UDP ",
+                            "4.3 TCP: -TCP Services Features, Segment, A TCP Connection, Flow Control, Error Control ",
+                            "4.4 Congestion Control: - Open-Loop Congestion Control, Closed-Loop Congestion Control "
+                        ]
+                        },
+                        {
+                        "unit_5": "Application Layer ",
+                        "Topics": [
+                            "5.1 Distribution of name space: Hierarchy of Name Servers, Root Server, Primary and Secondary Servers ",
+                            "5.2 DNS in the internet: - Generic Domains, Country Domains, Inverse Domain ",
+                            "5.3 Resolution: -Resolver, Mapping Names to Addresses, Mapping Address to Names, Recursive Resolution, Iterative Resolution, Caching ",
+                            "5.4 WWW: - ARCHITECTURE, Client (Browser), Server, Uniform Resource Locator, Cookies ",
+                            "5.5 HTTP: -HTTP Transaction, Persistent Versus Nonpersistent Connection, Proxy Server ",
+                            "5.6 Dynamic Host Configuration Protocol (DHCP) ",
+                            "5.7 Remote logging: - TELNET ",
+                            "5.8 Electronic mail: - ELECTRONIC MAIL, Architecture, User Agent, Message Transfer Agent: SMTP, Message Access Agent: POP and IMAP, Web-Based Mail ",
+                            "5.9 File transfer: -File Transfer Protocol (FTP)"
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Software Engineering ",
+                    "subject_code": "2418502",
+                    "units": [
+                        {
+                        "unit_1": "Software Development Process ",
+                        "Topics": [
+                            "1.1  Type of software, need for software engineering, software engineering as layered approach, its characteristics. ",
+                            "1.2 Software development frame work.",
+                            "1.3 Software process framework, process models: perspective process models, specialized process models. ",
+                            "1.4 Agile software development: agile process and its importance, extreme programming, adaptive software development, scrum, dynamics system development method (DSDM), crystal ",
+                            "1.5 Selection criteria for software process model. "
+                        ]
+                        },
+                        {
+                        "unit_2": " Software Requirement Engineering ",
+                        "Topics": [
+                            "2.1 Software engineering practices and its importance, core Principles. ",
+                            "2.2 Communication practices, planning practices, modeling Practices. Construction practices, software deployment (Statement and meaning of each Principles for each practice).",
+                            "2.3 Requirement Engineering: Requirement gathering and Analysis, type of requirement (functional, product, organizational, external requirements) Electing requirements models, developing use cases building requirements models, requirement negotiation, validation. ",
+                            "2.4 Software Requirements Specification (SRS): need of SRS, Format, and its characteristic "
+                        ]
+                        },
+                        {
+                        "unit_3": "Software Modeling and Design ",
+                        "Topics": [
+                            "3.1 Translating requirement model into design model: data Modelling. ",
+                            "3.2 Analysis Modelling: Elements of Analysis model.",
+                            "3.3 Design modelling: Fundamental design concept (Abstraction, Information hiding, structure, modularity, concurrency, verification, Aesthetics) ",
+                            "3.4 Design notations: Data Flow Diagram (DFD), Structure Flowcharts, Decision Tables. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Software Project Estimation ",
+                        "Topics": [
+                            "4.1 The management spectrum-4P’s ",
+                            "4.2 Metrics for size Estimation: Line of Code (LoC), Function Points (FP). ",
+                            "4.3 Project cost Estimation Approaches: Overview of Heuristic, Analytical, and Empirical Estimation. ",
+                            "4.4 COCOMO (Constructive Cost Model), COCOMO II. ",
+                            "4.5 Risk Management: Risk Identification, Risk Assessment, Risk Containment, RMMM Strategy. "
+                        ]
+                        },
+                        {
+                        "unit_5": " Software Testing and Quality Assurance: ",
+                        "Topics": [
+                            "5.1 Testing-Meaning and purpose, testing methods- Black- box and White box, level of testing-Unit testing. ",
+                            "5.2 Test Documentation- Test case Template, test plan, Introduction to defect Report, test summary report. ",
+                            "5.3 Test planning and management: Test Strategy, Test Plan, Test Estimation, Test Case Design, Test Data Preparation, Test Progress Monitoring and Reporting. ",
+                            "5.4 Software Quality Management vs. Software Quality Assurance. Phases of Software Quality Assurance: Planning, Activities Audit, and review. ",
+                            "5.5 Quality Evaluation standards: Six sigma, ISO for software, CMMI: Levels, process areas. "
+                        ]
+                        },
+                        {
+                        "unit_6": "Software Project Management",
+                        "Topics": [
+                            "6.1 Overview of project management activities, tasks, resources, Project Scheduling: Basic principle work breakdown structure, activity network and critical path method, scheduling Techniques (CPM, PERT). ",
+                            "6.2 Project Tracking; Timeline Charts. Earned value analysis, Gantt charts. "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Data Science: Data Warehousing and Data Mining ",
+                    "subject_code": "2418503A",
+                    "units": [
+                        {
+                        "unit_1": "Data Science: Concepts and Techniques ",
+                        "Topics": [
+                            "1.1 Concepts and Importance ",
+                            "1.2 Data Types and Data Structures in Data Science ",
+                            "1.3 Data Collection and Data Sources in Data Science ",
+                            "1.4 Exploratory Data Analysis (EDA) ",
+                            "1.5 Statistical Methods for Data Analysis in Data Science  Descriptive Analysis  Exploratory Analysis  Inferential Analysis  Predictive Analysis  Linear Regression  Logistic Regression ",
+                            "1.6 Probability and Probability Distributions in Data Science ",
+                            "1.7 Hypothesis Testing ",
+                            "1.8 Forecasting Techniques  Delphi  Input Output Analysis  Extrapolation  Time Series analysis ",
+                            "1.9 Data Ethics and Privacy in Data Science "
+                        ]
+                        },
+                        {
+                        "unit_2": "Data Warehousing and On-Line Analytical Processing ",
+                        "Topics": [
+                            "2.1 Definition of Data Warehouse ",
+                            "2.2 Need for separate data warehouse ",
+                            "2.3 Data Warehouse Models:  Enterprise Warehouse  Data Mart  Virtual Warehouse ",
+                            "2.4 Difference between Operational Database System and Data Warehouse ",
+                            "2.5 Conceptual Modeling of Data Warehouse ",
+                            "2.6 Data warehouse architecture ",
+                            "2.7 Benefits of data warehousing ",
+                            "2.8 Introduction to Online Analytical Processing: 2.8.1 OLAP applications 2.8.2 Features of OLAP 2.8.3 Benefits of OLAP 2.8.4 Strengths of OLAP 2.8.5 Comparison between OLTP and OLAP 2.8.6 Differences between OLAP and data mining ",
+                            "2.9 OLAP Operations (Roll-up, Drill down, Slice and dice) ",
+                            "2.10 Data Cube Computation ",
+                            "2.11 Data warehouses versus OLTP: similarities and distinction "
+                        ]
+                        },
+                        {
+                        "unit_3": "Introduction to Data Mining ",
+                        "Topics": [
+                            "3.1 Introduction ",
+                            "3.2 Data Mining as Evolution of Information Technology ",
+                            "3.3 Types of data for mining  Database Data  Data Warehouses  Transactional Data  Other types of data ",
+                            "3.4 Need of Data Mining ",
+                            "3.5 Data Mining Application",
+                            "3.6 Data Preprocessing 3.6.1 Need for Data Preprocessing 3.6.2 Major Tasks in Data Preprocessing 3.6.3 Data Preprocessing Methods  Data cleaning  Data integration  Data transformation  Data reduction  Data Discretization ",
+                            "3.7 Data Mining Techniques  - Predictive modeling Database segmentation  Link analysis  Deviation detection ",
+                            "3.8 Integration of a Data Mining System with Database 3.9 Major Issues in Data Mining "
+                        ]
+                        },
+                        {
+                        "unit_4": " Classification Methods",
+                        "Topics": [
+                            "4.1 Introduction to Classification ",
+                            "4.2 Approach to solve classification problems ",
+                            "4.3 Evaluation of Classifiers ",
+                            "4.4 Classification Metrics ",
+                            "4.5 Types of Classification 4.5.1 Posteriori Classification 4.5.2 Priori Classification 4.5.3 Binary Classification 4.5.4 Multi-class Classification ",
+                            "4.6 Classification Techniques 4.6.1 Bayesian Classification 4.6.2 Support Vector Machine 4.6.3 Decision Tree 4.6.4 Dimensionality Reduction ",
+                            "4.7 Pattern Based Classification ",
+                            "4.8 Over-fitting and Under-fitting ",
+                            "4.9 Lazy Learners ",
+                            "4.10 Applications of Classification "
+                        ]
+                        },
+                        {
+                        "unit_5": "Cluster Analysis and Web Mining ",
+                        "Topics": [
+                            "5.1 Introduction to Cluster Analysis",
+                            "5.2 Requirements for cluster analysis",
+                            "5.3 Applications of Cluster Analysis ",
+                            "5.4 Overview of basic clustering methods ",
+                            "5.5 Major Clustering Methods 5.5.1 Partitioning Based k-Means Clustering- A Centroid-Based Technique 5.5.2 Hierarchical Based  Agglomerative  Divisive 5.5.3 Density Based  DBSCAN: Density-Based Clustering Based on Connected ",
+                            "5.6 Agglomerative versus Divisive Hierarchical Clustering ",
+                            "5.7 Distance Measures in Algorithmic Methods",
+                            "5.8 Applications of Cluster Analysis ",
+                            "5.9 Identifying and handling of outliers ",
+                            "5.10 Outlier Detection Techniques ",
+                            "5.11 WEB MINING: Basic concepts ",
+                            "5.12 PAGE RANK Algorithm ",
+                            "5.13 HITS Algorithm "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Advanced JAVA Programming",
+                    "subject_code": " 2418503B",
+                    "units": [
+                        {
+                        "unit_1": "JAVA Applet ",
+                        "Topics": [
+                            "1.1 Applet: Local and remote applets, Difference between applet and application, Applet life cycle, Developing executing applet code ",
+                            "1.2 Web page design: Applet tag, Adding applet to HTML file, Passing parameter to applet, Various methods and component classes to develop basic applet, Running applet. ",
+                            "1.3 Applet graphics: Drawing shapes and text, Handling graphics in applets, Animation with applets. "
+                        ]
+                        },
+                        {
+                        "unit_2": "Abstract Window Toolkit (AWT) ",
+                        "Topics": [
+                            "2.1 Abstract Window Toolkit: Class hierarchy, Window fundamentals ",
+                            "2.2 Frame Window: Creating a frame window in the applet, Canvas, Creating a window program ",
+                            "2.3 Graphics-AWT Controls: Labels, TextField, Pushbuttons ",
+                            "2.4 Layout Managers: Flow Layout, Border Layout, Grid Layout, Card Layout ",
+                            "2.5 Developing Graphical User Interface using Swing: JApplet, JLabel, JTextField, JButton, JCheckBox, JRadioButton, JComboBox, Menus",
+                            "2.6 Event Classes: MouseEvent Class, ActionEvent Class, WindowEvent Class ",
+                            "2.7 Event Listen Interface: MouseListener, ActionListener, WindowListener and KeyListner "
+                        ]
+                        },
+                        {
+                        "unit_3": " Java Data Base Connectivity (JDBC) ",
+                        "Topics": [
+                            "3.1 JDBC Architecture: Two-Tier Database Design, Three-Tier Database Design ",
+                            "3.2 The JDBC API: The API components, Database operation: creating tables, CRUD (Create, Read, Update, and Delete) operations using SQL. ",
+                            "3.3 Establishing a JDBC Connection: JDBC Data Types, JDBC drivers, Connection management and resource cleanup, JDBC- Statements, PreparedStatement and CallableStatement, JDBC- ResultSet, JDBC- Transactions, JDBC- Exception Handling. ",
+                            "3.4 JDBC- Advantages and Disadvantages "
+                        ]
+                        },
+                        {
+                        "unit_4": "Servlets Programming ",
+                        "Topics": [
+                            "4.1 Servlet API ",
+                            "4.2 javax.servlet Package",
+                            "4.3 The javax.servlet. HTTP Package",
+                            "4.4 The life cycle of a servlet ",
+                            "4.5 The Java Servlet Development Kit ",
+                            "4.6  The Simple Servlet: Create and compile servlet source code, Start a web browser and request the servlet, Example of echo servlet, Deployment in Tomcat server, Handling HTTP Requests and Responses "
+                        ]
+                        },
+                        {
+                        "unit_5": "Java Server Pages (JSP) ",
+                        "Topics": [
+                            "5.1 Relation of Applets and Servlets with JSP ",
+                            "5.2 Lifecycle of JSP",
+                            "5.3 JSP Scripting Elements ",
+                            "5.4 JSP Implicit Objects: Implicit objects- example of out and request, Response implicit object, PageContext, page and exception implicit object ",
+                            "5.5 JSP Expressions ",
+                            "5.6 JSP Action Tags ",
+                            "5.7 JSP Declarations ",
+                            "5.8 JSP- Standard Tag Library (JSTL) ",
+                            "5.9 Difference between JSP and Servlet ",
+                            "5.10 Simple JSP program to fetch database records "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Artificial Intelligence",
+                    "subject_code": "2400504B ",
+                    "units": [
+                        {
+                        "unit_1": "Artificial Intelligence ",
+                        "Topics": [
+                            "Artificial Intelligence: What is AI?, Types of AI, History of AI, Turing Test, Symbol Systems and the scope of Symbolic AI, Structure of AI, Goals of AI, Importance ofAI, Techniques used in AI, Perception, Understanding and Action, Technological drivers of modern AI ",
+                            "Knowledge: Definition, Knowledge Representation, objectives andrequirements, practical aspects of representation, Components ",
+                            "Intelligent Agents: Agents and Environments, Properties of environments,characteristics of agents, classification of agents",
+                            "Problem Solving: Problem Formulation,Goal Formulation, State Space Search,Search Problem, Basic search algorithm,Search Tree, Search strategies–Uninformed and informed search, Breadth FirstSearch, Depth FirstSearch, Best FirstSearch, Constraint Satisfaction Problem (CSP), Back tracking Search.Problem Definitions: N Queen Problem, 8Puzzle Problem, Tic-tac-Toe. "
+                        ]
+                        },
+                        {
+                        "unit_2": "Python Programming ",
+                        "Topics": [
+                            "Python character set, Python tokens, variables, concept of l-value and r-value,use of comments. Data types: number (integer, floating point, complex), boolean, sequence (string,list, tuple), none, mapping (dictionary), mutable and immutable data types Operators: arithmetic operators, relationaloperators, logical operators, assignmentoperator, augmented assignmentoperators. Expressions, statement, typeconversion & input/output: precedence ofoperators, expression, evaluation ofexpression. ",
+                            "Conditional and Iterative statements: if, if-else, if- elif-else, for loop, range function, while loop, break and continue statements, nested loops",
+                            "String, List, Tuples and Dictionary: String: indexing, string operations (concatenation, repetition, membership & slicing), traversing a string using loops, built-in functions.  ",
+                            "Lists: introduction, indexing, list operations (concatenation, repetition, membership & slicing), traversing a list using loops, built- in functions, linear search on list of numbers and counting the frequency of elements in a list Dictionary: accessing items in a dictionary using keys, mutability of dictionary (adding a new item, modifying an existing item), traversing a dictionary, built-in functions",
+                            "Python Functions: types of function (built- in functions, functions defined in module, user defined functions), creating user defined function, arguments and parameters, default parameters, positionalparameters, function returning value(s), flow of execution, scope of a variable (global scope, local scope) ",
+                            "Modules and Packages: Importing module using 'import' Regular Expressions,Exception Handling, PyPI Python PackageIndex, Pip Python package manager, Importing Libraries and Functions "
+                        ]
+                        },
+                        {
+                        "unit_3": "Data Analytics and Computing with NumPy ",
+                        "Topics": [
+                            "Data Analytics: Data, Types of Data, Importance of Data, Data Analysis Vs Data Analytics, Types of Data Analytics, Elements of Analytics, Data Analysis Process, Qualitative and Quantitative analyses, Open Source Data. ",
+                            "NumPy Library: Introduction, Installation, ",
+                            "Ndarray: creating an array, intrinsic creation of an array, Data types, basic operations, aggregate functions, Indexing, slicing, Iterating, Conditions and Booleanarrays, Array ",
+                            "manipulation: Joining, splitting, shape changing, sorting, Structured arrays, Reading and Writing array data on a File. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Data Analysis with Pandas",
+                        "Topics": [
+                            "Pandas data structures: Series, Declaration, selecting elements, assigning values, Filtering values, operations, mathematical functions, evaluating values, handling missing data, creating series from dictionaries, adding two series. ",
+                            "Data Frame: Defining, selecting elements, assigning values, membership, deleting a column, filtering. Index Objects: Indexing, Re- indexing, Dropping, sorting and ranking, Descriptive Statistics ",
+                            "Data Loading: Reading and Writing csv, xls, text data files, Data Cleaning and Preparation: Handling missing data, removing duplicates, replacing values,Vectorized String Methods, HierarchicalIndexing, Merging and Combining, Data aggregation and Grouping"
+                        ]
+                        },
+                        {
+                        "unit_5": "Data Visualization with Matplotlib",
+                        "Topics": [
+                            "Data Visualization: Introduction to Matplotlib ,PyPlot package, Figures andSubplots, showing plots and images ",
+                            "Customizing Plots: Colors, Markers, Line Styles, Limits, Tics, Labels, Legends, Grids ,Annotating with text, Matplotlib ",
+                            "Configuration ",
+                            "Chart types: Line, Bar, stacked bar, Box plots, pie chart , Histogram and Densityplots, Scatter plot, Saving Plots to a file, Close and clear plots. "
+                    
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": " Internet of Things",
+                    "subject_code": "2400504C",
+                    "units": [
+                        {
+                        "unit_1": "Introduction to IoT ",
+                        "Topics": [
+                            "1.1 Basics of IoT, concepts of IoT, History of IoT",
+                            "1.2 Basic IoT System and its building blocks ",
+                            "1.3 Various platforms for IoT (e.g. AWS, AZURE, GCP) ",
+                            "1.4 Introduction to Python programming and IoT software",
+                            "1.5 Applications of IoT "
+                        ]
+                        },
+                        {
+                        "unit_2": "IoT Communication Protocols ",
+                        "Topics": [
+                            "2.1 Basics of given communication protocol alongwith its applications ",
+                            "2.2 Explain Communication Protocols MQTT ",
+                            "2.3 Bluetooth Low Energy ZigBee LoRa Wi-fi "
+                        ]
+                        },
+                        {
+                        "unit_3": "Sensors and Hardware for IoT ",
+                        "Topics": [
+                            "3.1 Sensors and Actuators, Transducers, Classifications of sensors, IoT Sensors ",
+                            "3.2 Development Boards, classifications, and basics of wireless networks, WiFi libraries ",
+                            "3.3 Introduction to node MCU, block diagram, functions, interfacing with sensors and publishing data on webserver ",
+                            "3.4 Device integration with node MCU",
+                            "3.5 Interfacing of sensors with boards "
+                        ]
+                        },
+                        {
+                        "unit_4": " IoT APIs and its Integration ",
+                        "Topics": [
+                            "4.1 Explain APIs and its use ",
+                            "4.2 Explanation of given IoT APIs along with its applications ",
+                            "4.3 MQTT, Broker, subscriber, publisher ",
+                            "4.4 REST SOAP",
+                            "4.5 JSON ",
+                            "4.6 Programming API using Python "
+                        ]
+                        },
+                        {
+                        "unit_5": " IoT Applications: - ",
+                        "Topics": [
+                            "5.1 Industrial IoT and Internet of everything ",
+                            "5.2 IoT for consumer electronics products ",
+                            "5.3 IoT for Medical applications ",
+                            "5.4 IoT for Agriculture ",
+                            "5.5 IoT for security and Law enforcement "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": " Drone Technology ",
+                    "subject_code": "2400504D",
+                    "units": [
+                        {
+                        "unit_1": "Introduction to Drone Technology ",
+                        "Topics": [
+                            "Introduction to Drones and UAV  Definition  History  Drone in Indian aspect ",
+                            "ntroduction to Flight Dynamics Various types of Drones and their respective Applications  Multirotor drones  Fixed wing structure ",
+                            "Drone flights using an understanding of FAA  DGCA  Digital sky platform  RPTO Drone regulations-No drone zones "
+                            
+                        ]
+                        },
+                        {
+                        "unit_2": "Drone and its components ",
+                        "Topics": [
+                            "Drones components  Drone frame  Propellers ",
+                            "Sensors  Gyro sensor and Accelerometer  Speed and Distance Sensor  Temp sensor  Barometer  TOF Sensor ",
+                            "Battery  Types and Capacity ",
+                            "Motors  Motor types  Motor capabilities  Application of BLDC motors in drones "
+                            
+                        ]
+                        },
+                        {
+                        "unit_3": "Drone controller and motion ",
+                        "Topics": [
+                            "Propulsion and Vertical Motion ",
+                            "Controller and Flying Instructions ",
+                            "Electronic speed Controller (ESC) ",
+                            "Flight Controller Board (FCB) ",
+                            "Radio Communication ",
+                            "Transmitter and Receiver for radio signal "
+                        ]
+                        },
+                        {
+                        "unit_4": "Connections and Interfaces of Devicesin Drone and Drone Simulator ",
+                        "Topics": [
+                            "Communication Port  PWM  RS232, RS422, RS485  UART  CAN  I2C ",
+                            "Different types of connectors and its specification",
+                            "Drone Simulator software ",
+                            "Drone simulator Hardware "
+                        ]
+                        },
+                        {
+                        "unit_5": " Introduction to Python for Drone",
+                        "Topics": [
+                            "Python programing refreshers for IoT, AI and Drone",
+                            "Integration of devices with cloud services ",
+                            "Microsoft Azure, AWS "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "3D Printing and Design ",
+                    "subject_code": "2400504E",
+                    "units": [
+                        {
+                        "unit_1": "Additive Manufacturing Introduction and CAD ",
+                        "Topics": [
+                            "1.1 CAD-CAM and its integration. ",
+                            "1.2 CAD- Part and Surface modeling. ",
+                            "1.3 CAD file formats. ",
+                            "1.4 Additive v/s Conventional Manufacturing processes. ",
+                            "1.5 Process chain for 3D Printing. ",
+                            "1.6 Classification of 3D Printing Processes. ",
+                            "1.7 Product design and prototyping. ",
+                            "1.8 Reverse Engineering for 3D Printing. "
+                        ]
+                        },
+                        {
+                        "unit_2": "Data Preparation for 3D Printing ",
+                        "Topics": [
+                            "2.1 STL interface Specification, STL data generation, STL data Manipulation. ",
+                            "2.2 Advantages and limitations of STL file format, Open files, Repair of STL files, ",
+                            "2.3 Alternative 3D Printing interfaces. ",
+                            "2.4 Part orientation and support generation, Factors affecting part orientation, Various models for part orientation determination.",
+                            "2.5 The function of part supports, Support structure design, Automatic support structure generation. ",
+                            "2.6 Model Slicing and Contour Data organization, Direct and adaptive slicing: Identification of peak features, Adaptive layer thickness determination. ",
+                            "2.7 Tool path generation. "
+                        ]
+                        },
+                        {
+                        "unit_3": "Additive Manufacturing Techniques ",
+                        "Topics": [
+                            "3.1 Fused Deposition Modeling (FDM), Stereo lithography (SLA), Selective Laser Sintering (SLS), Binder Jetting, Material Jetting, Direct Energy Deposition and Laminate Object Manufacturing. ",
+                            "3.2 FDM based 3D printing process details. ",
+                            "3.3 3D Printing materials and selection for FDM",
+                            "3.4 FDM Process parameter for various applications. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Application of 3D Printing ",
+                        "Topics": [
+                            "4.1 Additive Manufacturing Application Domains: Aerospace, Electronics, Health Care, Defense, Automotive, Construction, Food Processing, Machine Tools "
+                            
+                        ]
+                        },
+                        {
+                        "unit_5": "3D Printers and Software and Scanners ",
+                        "Topics": [
+                            "5.1 Construction details and working of established FDM based 3D printers for plastics parts. ",
+                            "5.2 Accuracy, Precision and Tolerance in 3D printing. ",
+                            "5.3 3D Printer software- Fusion 360, Solidworks, Onshape, Tinkercad, Ultimaker Cura, MeshLab, Simplyfy 3D, Repetier host, Slic3r, etc. – use and operation of anyone. ",
+                            "5.4 3D Scanners and working. ",
+                            "5.5 Producing a part using FDM based 3D Printer. "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Industrial Automation ",
+                    "subject_code": "2400504F",
+                    "units": [
+                        {
+                        "unit_1": "Overview of Industrial Automation ",
+                        "Topics": [
+                            "Introduction to Industry 4.0 and its components, Issues and challenges in automation ",
+                            "Need of automation in industries, Principles and strategies of automation, factory automation, process automation ",
+                            "Basic elements of an automated system, Structure of Industrial Automation Advanced automation functions, Levels of automations ",
+                            "Industrial control Systems- Process and Discrete system ",
+                            "Types of automation system: Fixed, Programmable, Flexible IntegratedAutomation and its application Different systems used for Industrial automation: PLC, HMI, SCADA, DCS, Drives. ",
+                            "Introduction to Internet of Things (IoT) and Industrial Internet of Things (IIOT) and its application in Automation. ",
+                            "Role of robots in automation and its components. "
+                        ]
+                        },
+                        {
+                        "unit_2": "Fundamentals of PLC ",
+                        "Topics": [
+                            "Introduction to PLC, evolution of PLC  Comparison of PLC and Personal Computer(PC)  Comparison of PLC and dedicated controllers like PAC and CNC  Types of PLC – Fixed, Modular and their types  Different brands of PLCs available in the market ",
+                            "Building blocks of PLC -CPU, Memory organization, Input-Output modules (Discreteand Analog) Specialty I/O Modules, Power supply ",
+                            "PLC programming languages with simpleexamples:  Functional Block Diagram (FBD),  Instruction List.  Structured text,  Sequential Function Chart (SFC),  Ladder Programming ",
+                            "PLC I/O addressing in ladder logic Simple programming example using ladderlogic ",
+                            "Applications of PLC: Traffic light control, Elevator control, Motor sequencing control, Tank level control, temperature control, Conveyor system control "
+                        ]
+                        },
+                        {
+                        "unit_3": "Sensors and Input field Devices ",
+                        "Topics": [
+                            "Analog input devices-Electromagnetic relays, Contactors, Motor starters, ",
+                            "Manually operated Switches Toggle switch, pushbutton switch, knife switch and selector switches ",
+                            "Mechanically operated switches, Limit switch, Temperature switch (Thermostat), Pressure switch, Level switch and their symbols ",
+                            "Discrete/Digital Input device, Construction and working of Sensors  Proximity sensors- Inductive, Capacitive, Optical and ultrasonic ",
+                            "Advanced sensors- Construction and workingof  Temperature sensors- Thermistor, Thermocouple and Resistance temperature Detector (RTD)  Liquid level sensor -Capacitive and Ultrasonic  Force -Strain/Weight sensors  Flow sensors – turbine flow sensor  Pressure sensors- Linear Variable Differential Transformer (LVDT)  Inclination sensor -Inclinometer  Acceleration sensor- Accelerometer ",
+                            "Angular and linear position sensor "
+                        ]
+                        },
+                        {
+                        "unit_4": "Actuators and Output Devices ",
+                        "Topics": [
+                            "Introduction to actuators, Classification ofactuators Mechanical actuators -Translational and rotation motion, kinematic chains, cams, gears, belt and chain drives, bearings ",
+                            "Hydraulic and Pneumatic actuators- linear and rotary actuators, single and doubleacting cylinder, directional, process and pressure control valves ",
+                            "Electrical actuators  Electromechanical actuators Construction, working and application of Stepper motors, AC/DC Servo motors,BLDC Motor (Very brief)  Electrohydraulic actuators-Construction, working and application of Electro- hydrostatic actuator (EHA), ON/OFF Electro-hydraulic Rotary Actuator (E2H90, Control Valve Rotary Actuator (E2HR), Solenoid valve ",
+                            "Thermal actuators -Construction, workingand application of Hot-And-Cold-Arm Actuators, Chevron-Type Actuators ",
+                            "Actuators, Chevron-Type Actuators Magnetic actuators- Construction, working principle and application of Moving coil actuators, moving magnet actuator, Moving iron actuator ",
+                            "Selection criteria of actuators ",
+                            "Other Output devices- Indicators, Alarms Pilot Lights, Buzzers, Valves, Motor starters, Horns and alarms, Stack lights Control relays,Pumps and Fans. "
+                        ]
+                        },
+                        {
+                        "unit_5": "Control System ",
+                        "Topics": [
+                            "Block diagram of a basic control system Open and closed loop system, their transfer function First order and second order system and their output response and parameters ",
+                            "Different types of inputs-step and ramp Types of control – On-off, Feed forward, Open loop and closed loop control and Transfer function ",
+                            "Controllers in closed loop control  Proportional Controller (P Controller)  Integral Controller (I Controller)  Derivative controller (D- Controller)  P-I Controller  P-D Controller ",
+                            "PID Controller "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Electric Vehicle",
+                    "subject_code": "2400504G",
+                    "units": [
+                        {
+                        "unit_1": "Introduction to Electric Vehicle ",
+                        "Topics": [
+                            "Review of Conventional Vehicle Engine System ",
+                            "Electric Vehicle (EV)  The necessity of Electric Vehicle  Types of Electric Vehicles - Plug-in hybrid - Battery electric vehicle - Hybrid electric vehicle - Fuel Cell Electric Vehicle  Advantages of Electric Vehicles",
+                            "Electric Vehicle Components: Motor, Motor Controller, Battery, Battery Management System, and ChargingSystem. "
+                        ]
+                        },
+                        {
+                        "unit_2": "Electric Motors used in EVs ",
+                        "Topics": [
+                            "Electric Motors for EV applications  General Characteristics of motors  Types of Motors: DC, Brushless DC, Induction, Permanent Magnet Synchronous Motors, SwitchedReluctance Motors ",
+                            "Rating of Motors ",
+                            "Selection Criteria ",
+                            "Physical Location Connection of Motors: Mechanical Connections and Electrical Connections "
+                            
+                        ]
+                        },
+                        {
+                        "unit_3": "EV Batteries and Energy Storages ",
+                        "Topics": [
+                            "Types of Batteries: Lead Acid, Nickel Based,Lithium Based Battery Parameters ",
+                            "Charging (AC) and Discharging (DC) Process Lithium Ion Batteries ",
+                            "Fuel Cells, Fuel Cell Storage System ",
+                            "Battery Condition Monitoring ",
+                            "Battery Management System (BMS)  Need of BMS  Block Diagram of BMS ",
+                            "Battery Disposal and Recycling "
+                        ]
+                        },
+                        {
+                        "unit_4": "EV Charging Systems ",
+                        "Topics": [
+                            "Power electronics in EV  Power electronics components  Rectifiers  DC to DC Converter  DC to AC Converter ",
+                            "Charging System  Types of charging Systems  Components of Charging Systems  Single line Diagram of Charging System "
+                        ]
+                        },
+                        {
+                        "unit_5": " Regulatory Requirements andPolicies for EV Industry ",
+                        "Topics": [
+                            "Rules and Regulations set by the Indiangovernment for the designer/manufacturer of EVs. ",
+                            "Policies in India Global Policies for E- Vehicles. ",
+                            "Carbon Footprint Issues "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Robotics (Basic) ",
+                    "subject_code": "2400504H",
+                    "units": [
+                        {
+                        "unit_1": "Basics of Robotics Systems ",
+                        "Topics": [
+                            "1.1 Definition, need, brief history of robotics ",
+                            "1.2 Basic Robot terminology, configuration and its working ",
+                            "configuration and its working 1.3 Robot components overview - Manipulator, End effecters, Drive system, Controller, Sensors ",
+                            "1.4 Basic structure of a Robot and Classification – Cartesian, Cylindrical, Spherical, Horizontal articulated (SCARA), Parallel; Mechanic al arm, Degree of freedom, Links and joints, Wrist rotation,Mechanical transmission- pulleys, belts, gears, harmonic drive (gear box) ",
+                            "1.5 Linear and Rotary motion and its devices ",
+                            "1.6 Selection criteria for robots "
+                        ]
+                        },
+                        {
+                        "unit_2": "Robot Components ",
+                        "Topics": [
+                            "2.1 End effecters: types, sketches, working and applications ",
+                            "2.2 Sensing and Feedback devices: Optical sensors, Proximity sensors, LVDT, Thermocouple, RTD, Thermistor, Force sensing – strain gauge, Piezoelectric, Acoustic sensing Feedback devices; Potentiometers; Optical encoders; DC tachometers; ",
+                            "2.3 Robot machine vision: Block diagram of robot vision system, Vision equipment- camera, Imaging Components: Point, Line, Planar and Volume Sensors, Image processing, Part recognition and range detection "
+                        ]
+                        },
+                        {
+                        "unit_3": "Robotic Drive System and Controller ",
+                        "Topics": [
+                            "3.1 Actuators; Hydraulic, Pneumatic and Electrical drives; linear actuator; Rotary drives ",
+                            "drives 3.2 Control systems: Open loop and close loop with applications and its elements, Servo and non-servo control systems – Types, basic principles and block diagram Robot controller; Level of Controller ",
+                            "3.3  AC servo motor; DC servo motors and Stepper motors; ",
+                            "3.4 Robot path control: Point to point, Continuous path control and Sensor based path control "
+                        ]
+                        },
+                        {
+                        "unit_4": "Introduction to Robot Programming ",
+                        "Topics": [
+                            "4.1 Need and functions of programming",
+                            "4.2 Methods of robot programming: Manual Teaching, Teach Pendant, Lead through, Programming languages. Programming with graphics. ",
+                            "4.3 Programming languages: Types, features and applications ",
+                            "4.4 Controller programming ",
+                            "4.5 Simulation for robot movement "
+                        ]
+                        },
+                        {
+                        "unit_5": "Robotics Applications and Maintenance aspects",
+                        "Topics": [
+                            "5.1 Application robots including special types ",
+                            "5.2 Robot maintenance: Need and types ",
+                            "5.3 Common troubles and remedies in robot operation. ",
+                            "5.4 General safety norms, aspects and precautions in robot handling "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Transformer Manufacturing and Repairing",
+                    "subject_code": "2400504I",
+                    "units": [
+                        {
+                        "unit_1": "Transformer Fundamentals ",
+                        "Topics": [
+                            "1.1 Use of Transformers. ",
+                            "1.2 Types of Transformers. ",
+                            "1.3 The equivalent circuit of a transformer. ",
+                            "1.4 Phasor Diagrams ",
+                            "1.5 Open circuit and short circuit tests. ",
+                            "1.6 Voltage regulation and efficiency. "
+                        ]
+                        },
+                        {
+                        "unit_2": " Transformer Construction ",
+                        "Topics": [
+                            "2.1 Constructional Parts.  ",
+                            "2.2 Core Construction and Core Sections.",
+                            "2.3 Windings and Insulation.  ",
+                            "2.4 Cooling: Natural Cooling, Forced Oil cooling and Internal Cooling. ",
+                            "2.5 Tanks.",
+                            "2.6 Transformer oil."
+                        ]
+                        },
+                        {
+                        "unit_3": "Transformer Operation ",
+                        "Topics": [
+                            "3.1 Connection for transformers: star/star, star/delta, delta/star. Zig-zag/star. ",
+                            "3.2 Three phase to two phase connections: Scott connection. ",
+                            "3.3 Three phase to one phase connection. ",
+                            "3.4 Tap changing: On-load and off-load tap changing positions",
+                            "3.5 Three phase banks of single phase transformers: Open delta configuration.  "
+                        ]
+                        },
+                        {
+                        "unit_4": "Transformer Protection ",
+                        "Topics": [
+                            "4.1 Classification of transformer protection. ",
+                            "4.2 Buchholz Relay ",
+                            "4.3 Differential protection ",
+                            "4.4 Over current, Over voltage and surge protection. ",
+                            "4.5  Temperature indicators, oil level indicators, oil preservation systems, silica gel breather, gas sealed conservators.  "
+                        ]
+                        },
+                        {
+                        "unit_5": "Transformer Testing ",
+                        "Topics": [
+                            "5.1 Objectives of transformer testing. ",
+                            "5.2  Polarity Test, DC Resistance and voltage ratio tests.",
+                            "5.3  Magnetizing current and core loss tests.  ",
+                            "5.4  Temperature rise test, back to back connection.  ",
+                            "5.5  Insulation and Impulse Tests."
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Optical Fiber and 5G Communication",
+                    "subject_code": "2400504J",
+                    "units": [
+                        {
+                        "unit_1": "Introduction of Optical Fibers ",
+                        "Topics": [
+                            "1.1 Introduction to general optical fiber communication (OFC) system ",
+                            "1.2 Basic optical laws and definitions ",
+                            "1.3 Structure of optical cable- core, cladding, cover ",
+                            "1.4 Numerical aperture ",
+                            "1.5 Optical fiber modes and configurations–mode analysis for optical propagation through fibers ",
+                            "1.6 Classification of optical fiber, single mode fiber, graded index fiber "
+                        ]
+                        },
+                        {
+                        "unit_2": "Transmission Characteristics of Optical Fiber ",
+                        "Topics": [
+                            "2.1 Attenuation in Optical Fiber ",
+                            "2.2  Fiber Losses (Material, Scattering, Splice, Absorption, Radiative) ",
+                            "2.3 Dispersion (Chromatic, Modal, Material, Wave guide, Polarization mode) ",
+                            "2.4  Dispersion optimization of single mode fiber, characteristics of single mode fiber ",
+                            "2.5 R-I Profile  ",
+                            "2.6 Cut off wavelength, dispersion calculation, and mode field diameter "
+                        ]
+                        },
+                        {
+                        "unit_3": "Optical Sources and Detectors ",
+                        "Topics": [
+                            "3.1 Sources- Intrinsic and extrinsic material, direct and indirect band gaps",
+                            "3.2 LED structures- Surface-emitting and Edge emitting LED ",
+                            "3.3 Optical Source: Laser diodes, Laser source driver circuit, modes and threshold conditions, Rate equations, external quantum efficiency, resonant frequencies, single-mode laser, external modulation, temperature effort ",
+                            "3.4 Detectors: PIN photodetector, Avalanche photodiodes, Photodetector noise, noise sources, SNR, detector response time, Avalanche multiplication noise, and temperature effects "
+                        ]
+                        },
+                        {
+                        "unit_4": "Optical Receiver, Coupling and Measurements ",
+                        "Topics": [
+                            "4.1 Basic receiver operation, preamplifiers, digital signal transmission, error sources, Frontend amplifiers, probability of error, and receiver sensitivity. ",
+                            "4.2 Power Launching, Lensing Schemes for Coupling Management, coupling losses, ",
+                            "4.3 Fiber Splicing, and Optical power         measurement "
+                        ]
+                        },
+                        {
+                        "unit_5": "Fundamentals of 5G Communication ",
+                        "Topics": [
+                            "4.1 Basic receiver operation, preamplifiers, digital signal transmission, error sources, Frontend amplifiers, probability of error, and receiver sensitivity. ",
+                            "4.2 Power Launching, Lensing Schemes for Coupling Management, coupling losses, ",
+                            "4.3 Fiber Splicing, and Optical power  measurement "
+                        ]
+                        }
+                    ]
+                }
+            ]
+        },
+
+        "semester_6": {
+            "subjects": [
+                {
+                    "subject_name": "Cloud Computing ",
+                    "subject_code": "2418601",
+                    "units": [
+                        {
+                        "unit_1": "Introduction to Cloud Computing ",
+                        "Topics": [
+                            "1.1 Definition and evolution of Cloud Computing and Cloud -Enabling Technologies, ",
+                            "1.2 Service and Deployment Models ",
+                            "1.3 Popular Cloud Stacks (commercial/paid and open sourced) and Use Cases ",
+                            "1.4 Benefits, Risks, and Challenges of Cloud ",
+                            "1.5 Computing Economic Models and SLA ",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_2": "Cloud Infrastructure ",
+                        "Topics": [
+                            "2.1 Historical Perspective of Data Centers ",
+                            "2.2 Datacenter Components: IT Equipment and Facilities ",
+                            "2.3 Design Considerations: Networking, Requirements, Power, Efficiency, & Redundancy ",
+                            "2.4 Power Calculations, PUE and Challenges in Cloud Data Centers ",
+                            "2.5 Cloud Management and Cloud Software Deployment Considerations ",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_3": "Introduction to Virtualization",
+                        "Topics": [
+                            "3.1 Definition and basic concepts of virtualization. ",
+                            "3.2 Understanding the need for virtualization in IT environments. ",
+                            "3.3 Types of Virtualizations  Full virtualization vs. para-virtualization.  Hardware virtualization vs. software virtualization. ",
+                            "3.4 Hypervisors  Types of hypervisors: Type 1 (bare-metal) and Type 2 (hosted).  Role of Hypervisor  Popular hypervisors: VMware, Xen. ",
+                            "3.5 Virtual Machines (VMs)  Creating, configuring, and managing virtual machines.  Understanding VM snapshots and cloning. ",
+                            "3.6 Storage Virtualization  Virtualized storage concepts.  Understanding storage virtualization technologies and methods. "
+                        ]
+                        },
+                        {
+                        "unit_4": "Cloud Storage ",
+                        "Topics": [
+                            "Introduction to Storage Systems ",
+                            "Cloud Storage Concepts ",
+                            "Cloud Databases (MongoDB) ",
+                            "Cloud Object Storage (Amazon S3, OpenStack Swift, Google Cloud Storage object: cold line)",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_5": "Security in Cloud Computing ",
+                        "Topics": [
+                            "Cloud Security Fundamentals ",
+                            "Cloud Risk, Cloud Risk division  Polity and Organizational Risks  Technical Risks  Legal Risks ",
+                            "Technologies for Data Security risk. ",
+                            "Digital identity and access management, ",
+                            "Content level security ",
+                            "Security-AS-A-Cloud Service "
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Computer Network with Linux and Windows ",
+                    "subject_code": "2418602",
+                    "units": [
+                        {
+                        "unit_1": "Introduction to Computer Networks ",
+                        "Topics": [
+                            "Introduction to Computer Networks, Advantages of Computer Networks, Types of Computer Networks",
+                            "Basic Network services: File sharing, device sharing, Internet Connection Sharing ",
+                            "Network Communication Models: OSI Reference Model and function of each layer, TCP/IP Model, and mapping of OSI  layers with TC/IP model ",
+                            "Network Topologies: Bus Topology, Ring Topology, Star Topology, Mesh Topology, Tree Topology ",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_2": "Transmission media, mode, and Network Device: ",
+                        "Topics": [
+                            "Wired Media – Coaxial, UTP, STP, Fiber Optic Cables ",
+                            "Wireless Media- Electromagnetic spectrum, Radio Transmission, Microwave Transmission, Infrared Transmission, Satellite Communication ",
+                            "Mode of Communication: Simplex, Half Duplex, Full Duplex ",
+                            "Network connecting Devices Network Interface Cards (NICs), Modem, Switches- Layer2 and Layer3, Routers, Gateways, RJ45 & RJ11 connectors ",
+                            "Concept of Firewall and its use in Networking ",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_3": "Network Computing Models and Network Layer ",
+                        "Topics": [
+                            "Network Computing Models: Architecture and functionality of - Client-server, peer-to-peer, distributed computing ",
+                            "Internet Protocol - Logical Addressing - IPv4 Address - Address Space - Notations - Classful Addressing: - Net-id, Host-id, Subnet Mask - Subnetting - Classless Addressing: Super netting - Network Address Translation (NAT) - Introduction to IPv6 Address - Role and functions of network gateways",
+                            "Address Mapping, Error Reporting ",
+                            "",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_4": "Networking with Linux ",
+                        "Topics": [
+                            "Configuring IP addresses manually and through DHCP on a Linux system. ",
+                            "Configure network interfaces/devices/links - Configuration of different network services/protocols - Domain Name System (DNS) - Dynamic Host Configuration Protocol (DHCP) - File Transfer Protocol (FTP) - web server for hosting websites - Hypertext Transfer Protocol (HTTP) ",
+                            "Network Interface Bonding ",
+                            "Internetworking on Linux Systems: Bridging ",
+                            "Remote Access ",
+                            "Network troubleshooting tool"
+                        ]
+                        },
+                        {
+                        "unit_5": "Networking with Windows ",
+                        "Topics": [
+                            "Network Configuration ",
+                            "Configuration of different network services - Domain Name System (DNS) - Dynamic Host Configuration Protocol (DHCP) - File Transfer Protocol (FTP) - web server for hosting websites - Hypertext Transfer Protocol (HTTP) ",
+                            "Network Security ",
+                            "Remote Access ",
+                            "Network Troubleshooting ",
+                            ""
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "Introduction to Machine Learning",
+                    "subject_code": "2418603A",
+                    "units": [
+                        {
+                        "unit_1": "Introduction to Machine Learning (ML) ",
+                        "Topics": [
+                            "1.1 Overview of Artificial Intelligence (AI) Introduction to ML, Relationship between AI & ML, Difference between AI & ML ",
+                            "1.2 Datasets Type of datasets, Text Datasets, Image Datasets, Time Series Datasets, Spatial Datasets, Graph Datasets ",
+                            "1.3 Preprocessing and normalization Data Cleaning, Data Transformation, Feature Encoding, Dimensionality Reduction, Feature Selection, Data Normalization ",
+                            "1.4 Dataset division test, train, and validation sets, Cross-validation. ",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_2": "Fundamental Elements of Machine Learning ",
+                        "Topics": [
+                            "2.1 Applications of Machine Learning, processes involved in Machine Learning. ",
+                            "2.2 Machine Learning Techniques Supervised Learning, Unsupervised Learning, Reinforcement Learning ",
+                            "2.3 Real life examples of Machine Learning. ",
+                            "",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_3": "Supervised Learning ",
+                        "Topics": [
+                            "3.1 Classification and Regression, K-Nearest Neighbor, Linear Regression, Logistic Regression ",
+                            "3.2 Evaluation Measures, Sum of squares error (SSE), Mean squares error (MME), R-square, confusion matrix, precision, recall, F-Score, ROC-Curve ",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_4": "Unsupervised Learning ",
+                        "Topics": [
+                            "4.1 Introduction to Clustering Types of Clustering, Hierarchical, Agglomerative Clustering, Divisive clustering ",
+                            "4.2 Evaluation measures for clustering: Extrinsic Measures, Intrinsic Measures ",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_5": "Dimensionality Reduction Techniques",
+                        "Topics": [
+                            "5.1 Principal component Analysis (PCA), Linear discriminant Analysis (LDA), Independent component Analysis (ICA) ",
+                            ""
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "",
+                    "subject_code": "",
+                    "units": [
+                        {
+                        "unit_1": "",
+                        "Topics": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_2": "",
+                        "Topics": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_3": "",
+                        "Topics": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_4": "",
+                        "Topics": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_5": "",
+                        "Topics": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                        }
+                    ]
+                },
+                {
+                    "subject_name": "",
+                    "subject_code": "",
+                    "units": [
+                        {
+                        "unit_1": "",
+                        "Topics": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_2": "",
+                        "Topics": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_3": "",
+                        "Topics": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_4": "",
+                        "Topics": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                        },
+                        {
+                        "unit_5": "",
+                        "Topics": [
+                            "",
+                            "",
+                            "",
+                            "",
+                            "",
+                            ""
+                        ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
